@@ -1617,10 +1617,10 @@ This would be the beginning of their adventures together by the sea.
 \tg[Anthony]Although... Maybe another time I won't say no to you.
 \tg[Mesero]Como quieras, ¡ya sabes dónde estamos!
 \tg[Waiter]As you wish, you know where we are!
-\tg[Comerciante]Dinero. Monedas. ¿Tienes?
-\tg[Merchant]Money. Coins. Do you have?
-\tg[Comerciante]Cambiaré 5 Monedas por un objeto curativo. Acepta.
-\tg[Merchant]I will exchange 5 Coins for a healing item. Accept.
+\tg[Comerciante]Oye, tú. Monedas. ¿Tienes?
+\tg[Merchant]Hey. Coins. Got 'em?
+\tg[Comerciante]Dame 80 de ellas y perfeccionaré todos los IVs de uno de tus Pokémon. Acepta.
+\tg[Merchant]Gimme 80 of them, and I will perfect all the IVs of one of your Pokémon. Make the deal.
 \tg[Anthony](Me da un poco de mal rollo...)
 \tg[Anthony](It gives me a bit of a bad feeling...)
 \tg[Comerciante]No tienes Monedas. Pobretón.
