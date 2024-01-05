@@ -47324,7 +47324,7 @@ The Pokémon has been dropping some objects.
 \tg[Murkrow](...)
 \tg[Anthony](...)
 \tg[Anthony](...)
-\tg[Anthony](Siento como si su mirada penetrada dentro de mi alma...)
+\tg[Anthony](Siento como si su mirada penetrara dentro de mi alma...)
 \tg[Anthony](I feel as if his gaze penetrated into my soul...)
 \tg[Murkrow](U-um... Em... Lo siento...)
 \tg[Murkrow](U-um... Um... Sorry...)
