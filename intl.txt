@@ -9998,7 +9998,7 @@ Although, the truth is...
 \tg[Kyle]¡Oh, no! ¡Mami estará hecha una furia!
 \tg[Kyle]Oh no! Mommy will be furious!
 \tg[Kyle]¡Más te vale que nos volvamos a ver, Athan! ¡Me debes cosas!
-\tg[Kyle]We better meet again, Athan! You owe me things!
+\tg[Kyle]We better meet again, Athan! You owe me!
 \tg[Kyle]¡Y somos socios!
 \tg[Kyle]And we're partners!
 \tg[Athan]Por supuesto.
@@ -10006,9 +10006,9 @@ Although, the truth is...
 \tg[Athan]Bueno, será mejor que nosotros también nos vayamos.
 \tg[Athan]Well, we better go too.
 \tg[Athan](Volveré otro día para usar el columpio.)
-\tg[Athan](I'll come back another day to use the swing.)
+\tg[Athan](I'll come back some day to use the swing.)
 \tg[Athan](¿Esta es la isla? Es muy tranquila...)
-\tg[Athan](This is the island? It's very quiet...)
+\tg[Athan](This is the island? It's very serene...)
 \tg[Athan](¡Un columpio!)
 \tg[Athan](A swing!)
 \tg[Athan](Parece divertido... Quiero sentarme y que me balanceen...)
@@ -10018,29 +10018,29 @@ Although, the truth is...
 \tg[Athan]Bueno, hora de echar un vistazo por los alrededores.
 \tg[Athan]Well, time to take a look around.
 \tg[Athan]Si bien es cierto que parece que han habido cambios en las fluctuaciones espacio-temporales de la zona... Todo parece en orden por el momento.
-\tg[Athan]While it is true that there seem to have been changes in the space-time fluctuations of the area... Everything seems in order for the moment.
+\tg[Athan]While it is true that there do seem to have been changes in the space-time fluctuations of the area... Everything appears to be okay for now.
 \tg[???](...)
 \tg[???](...)
 \tg[Athan](...)
 \tg[Athan](...)
 \tg[Athan](¿¡Por qué hay un crío aquí!? ¡Es literalmente el rincón más escondido de la isla!)
-\tg[Athan](Why is there a kid here!? It's literally the most hidden corner of the island!)
+\tg[Athan](Why is there a kid here!? It's literally the most secluded place in the island!)
 \tg[???]Yo que tú iría con cuidado, fantasma. Si de mayor me convierto en un poderoso exorcista y resultas ser un espíritu malvado, tendrás problemas conmigo.
-\tg[???]If I were you, I would be careful, ghost. If I grow up to become a powerful exorcist and you turn out to be an evil spirit, you will have problems with me.
+\tg[???]If I were you, I would be careful, specter. If I grow up to become a powerful exorcist and you turn out to be an evil spirit, then I'm gonna defeat you.
 \tg[Athan](Fantasma, dice... ¿Qué hago ahora? ¿Le miento, o...?)
-\tg[Athan](Ghost, he says... What do I do now? Do I lie to him, or...?)
+\tg[Athan](Ghost, he says... What should I do now? Should I lie to him, or...?)
 \tg[Athan]T-tranquilo, no soy ningún fantasma. Este aspecto translúcido es una ilusión creada por ese Pokémon de ahí, ¿ves?
-\tg[Athan]T-don't worry, I'm no ghost. This translucent appearance is an illusion created by that Pokémon over there, see?
+\tg[Athan]D-don't worry, I'm no ghost. This translucent appearance is but an illusion created by that Pokémon over there, see?
 \tg[Athan]¡Puede darte algo de miedo por ser grande y tener dientes afilados, pero te aseguro que en realidad es muy simpático!
 \tg[Athan]He may be a little scary because he's big and has sharp teeth, but I assure you that he's actually very nice!
 \tg[???]Mmm... Si eres una ilusión creada por él y no un fantasma, ¿entonces la orca eres tú? ¿Te estás alabando a ti mismo?
-\tg[???]Mmm... If you are an illusion created by him and not a ghost, then the orca is you? Are you praising yourself?
+\tg[???]Mmm... If you are an illusion created by him and not a ghost, does that mean you're the orca? Are you praising yourself?
 \tg[Athan]Sí, eh... Bueno... (¡Agh, qué mal se me dan los niños pequeños!)
-\tg[Athan]Yeah, uh... Well... (Ugh, I'm really bad at little kids!)
+\tg[Athan]Yeah, uh... Well... (Ugh, I'm really bad with kids!)
 \tg[???]¿Y eres fuerte? ¿Puedo capturarte?
-\tg[???]And you are strong? Can I capture you?
+\tg[???]Are you strong? Can I catch you?
 \tg[Athan]¿¡Capturarme!? ¿A mí, el Rey del Mar? ¿Pero qué dices, niño?
-\tg[Athan]Capture me!? Me, the Sea King? But what do you say, child?
+\tg[Athan]Catch me!? Me, the King of the Sea? That's preposterious!
 \tg[Kyle]\c[6]Kyle</c>.
 \tg[Kyle]\c[6]Kyle</c>.
 \tg[Athan]Vale, Kyle. Escucha, yo...
@@ -10048,163 +10048,163 @@ Although, the truth is...
 \tg[Kyle]\c[6]Kyle Delmore</c>.
 \tg[Kyle]\c[6]Kyle Delmore</c>.
 \tg[Athan]Kyle Delmore... Necesito vigilar los alrededores porque...
-\tg[Athan]Kyle Delmore... I need to keep an eye on the surroundings because...
+\tg[Athan]Kyle Delmore... I need to keep an eye on our surroundings because...
 \tg[Kyle]Llámame Kyle.
 \tg[Kyle]Call me Kyle.
 \tg[Athan](Todas las vidas son valiosas, todas las vidas son valiosas...)
 \tg[Athan](All lives are valuable, all lives are valuable...)
 \tg[Athan]Mira, pequeño. Lo creas o no, soy el Rey del Mar, y debo dar una vuelta por este lugar durante un rato para asegurarme de que todo va bien, ¿vale?
-\tg[Athan]Look, little one. Believe it or not, I'm the Sea King, and I have to walk around this place for a while to make sure everything's okay, okay?
+\tg[Athan]Look, child. Believe it or not, I'm the King of the Sea, and I have to walk around this place for a while to make sure everything's okay, okay?
 \tg[Athan]No soy malvado, ni tienes que capturarme... Sea como sea que planearas hacerlo.
-\tg[Athan]I am not evil, nor do you have to capture me... However you planned to do it.
+\tg[Athan]I am not evil, nor do you have to catch me... However you intend on doing so.
 \tg[Kyle]Mmm... Tengo dos Poké Balls. Me pregunto si serán suficientes...
 \tg[Kyle]Hmm... I have two Poké Balls. I wonder if they will be enough...
 \tg[Athan]¡Y ahora no me ignores!
-\tg[Athan]And now don't ignore me!
+\tg[Athan]Don't ignore me, now!
 \tg[Athan]¿Qué son esas cápsulas que llevas ahí, si puedo preguntar?
-\tg[Athan]What are those capsules you have there, if I may ask?
+\tg[Athan]Though if I may ask, what are those capsules you have there?
 \tg[Kyle]¿Eres el Rey del Mar y no has oído hablar de las Poké Balls?
-\tg[Kyle]Are you the King of the Sea and you haven't heard of Poké Balls?
+\tg[Kyle]You are the King of the Sea and you've never heard of Poké Balls?
 \tg[Kyle]¡Sirven para capturar Pokémon! Papi dice que al usarlas forjas un vínculo con ellos y puedes darles órdenes en combate.
-\tg[Kyle]They are used to capture Pokémon! Daddy says that by using them you forge a bond with them and you can give them orders in battle.
+\tg[Kyle]They are used to catch Pokémon! Daddy says that by using them you can forge a bond with them, and then you can give them orders in battle.
 \tg[Athan]Ah, otro invento extraño de los humanos. Este es de lo más curioso.
 \tg[Athan]Ah, another strange human invention. This one is most curious.
 \tg[Kyle]Si realmente eres tan fuerte, es posible que necesite debilitarte primero...
 \tg[Kyle]If you're really that strong, I might need to weaken you first...
 \tg[Athan]¡Ja, ja, ja! Sigue soñando, entonces. Hace siglos que nadie puede conmigo en una batalla.
-\tg[Athan]Ha, ha, ha! Keep dreaming, then. No one can beat me in battle for centuries.
+\tg[Athan]Ha, ha, ha! Keep dreaming, then. No one has come close to doing that in centuries.
 \tg[Athan]Por cierto, ¿no has notado nada extraño últimamente? ¿O has visto algo inusual?
-\tg[Athan]By the way, haven't you noticed anything strange lately? Or have you seen anything unusual?
+\tg[Athan]By the way, haven you noticed anything strange as of late? Or have you seen anything unusual?
 \tg[Kyle]Sí, una orca grande ha aparecido en la playa frente a mi casa y ha invocado un fantasma que me está hablando.
-\tg[Kyle]Yes, a large orca has appeared on the beach in front of my house and has summoned a ghost that is talking to me.
+\tg[Kyle]Yes, a large orca whale has appeared on the beach in front of my house and has summoned a ghost that is talking to me.
 \tg[Athan]Ya... ¿Y nada más?
-\tg[Athan]Ya... And nothing else?
+\tg[Athan]I see... And nothing else?
 \tg[Kyle]Encontré un anillo en el suelo. Eso es raro, ¿no?
 \tg[Kyle]I found a ring on the floor. That's weird, right?
 \tg[Athan]¿Un anillo? ¿Puedo verlo?
-\tg[Athan]A ring? Can I see it?
+\tg[Athan]A ring? May I see it?
 \tg[Kyle]Sí, pero... ¿Qué hago con él? Eres transparente, ¿se lo tiro a la orca?
-\tg[Kyle]Yes, but... What do I do with it? You're transparent, should I throw it at the orca?
+\tg[Kyle]Yes, but... What should I do with it? You're transparent, should I just throw it at the orca whale?
 \tg[Athan]No, no. Dame un segundo.
 \tg[Athan]No, no. Give me a second.
 \tg[Athan]Listo. Ya que pasaré un buen rato por aquí, aprovecharé y utilizaré ropa cómoda.
-\tg[Athan]Done. Since I'll have a good time here, I'll take advantage and wear comfortable clothes.
+\tg[Athan]Done. Since it seems I'll be here for some time, I might as well wear comfortable clothes.
 \tg[Kyle]Ugh. Si de mayor me convierto en estilista, pídeme consejo.
 \tg[Kyle]Ugh. If I grow up to be a stylist, ask me for advice.
 \tg[Athan]¿Qué quieres decir con eso?
-\tg[Athan]What do you mean by that?
+\tg[Athan]What's that supposed to mean!?
 \tg[Athan]Bueno, déjame ver ese anillo.
-\tg[Athan]Well, let me see that ring.
+\tg[Athan]Anyways, let me see that ring.
 \tg[Athan](E-esto es...)
 \tg[Athan](T-this is...)
 \tg[Kyle]¿Qué ha pasado? M-me he mareado por un segundo...
 \tg[Kyle]What happened? I-I got dizzy for a second...
 \tg[Athan]¿¡Estás bien!? Este anillo parece peligroso. Creo que me lo quedaré, ¿vale?
-\tg[Athan]Are you okay!? This ring looks dangerous. I think I'll keep it, okay?
+\tg[Athan]Are you okay!? This ring looks dangerous. I think I'll hold on to it, okay?
 \tg[Kyle]¡Ni hablar! ¡Si es raro, quiero probar a venderlo!
-\tg[Kyle]No way! If it's weird, I want to try selling it!
+\tg[Kyle]No way! If it's rare, I want to try selling it!
 \tg[Athan]¿¡En serio eso es lo primero que se te ocurre!? ¡Este objeto posee poderes interdimensionales! ¡Podríamos perdernos en una dimensión extraña y no darnos ni cuenta!
 \tg[Athan]Is that seriously the first thing that comes to mind!? This object has interdimensional powers! We could get lost in a strange dimension and not even realize it!
 \tg[Kyle]Ugh...
 \tg[Kyle]Ugh...
 \tg[Athan]Si te encuentras mal, vuelve a tu casa a descansar. Yo me quedaré por aquí un rato más.
-\tg[Athan]If you feel sick, go home and rest. I'll stay here a while longer.
+\tg[Athan]If you feel so sick, just go home and get some rest. I'll stay here a while longer.
 \tg[Kyle]Bueno...
-\tg[Kyle]Well...
+\tg[Kyle]Okay...
 \tg[Kyle]¡S-solo voy a por un vaso de agua! ¡Ni se te ocurra moverte de aquí! ¡Volveré para capturarte y que me devuelvas el anillo!
-\tg[Kyle]I-I'm just going to get a glass of water! Don't even think about leaving here! I'll be back to capture you and get the ring back!
+\tg[Kyle]I-I'm just going to get a glass of water! Don't even think about leaving! I'll be back to catch you and get the ring back!
 \tg[Athan]Sí, como quieras... Aunque lo vas a tener difícil.
 \tg[Athan]Yes, whatever you want... Although you're going to have a hard time.
 Tan solo un par de minutos más tarde...
 Just a couple of minutes later...
 \tg[Athan](Tch, las ganas de columpiarme me distraen.)
-\tg[Athan](Tch, the desire to swing distracts me.)
+\tg[Athan](Darn, I want to ride that swing.)
 \tg[Kyle]¡O-oye, Rey del Mar!
-\tg[Kyle]H-hey, Sea King!
+\tg[Kyle]H-hey, King of the Sea!
 \tg[Athan]¿Ya estás de vuelta? No me ha dado tiempo a...
-\tg[Athan]Are you back yet? I haven't had time to...
+\tg[Athan]You're back already? I haven't even had time to...
 \tg[Kyle]¡Ven a mi casa!
 \tg[Kyle]Come to my house!
 \tg[Athan]¿A tu casa? ¿Sin invitación? Me da cosa...
-\tg[Athan]To your house? Without an invitation? I don't mind...
+\tg[Athan]To your house? Uninvited? I'm not too sure about that...
 \tg[Kyle]¡Yo te invito, pero ven! ¡Ya!
-\tg[Kyle]I invite you, but come! Now!
+\tg[Kyle]I'm inviting you, but come! Now!
 \tg[Athan]Voy, voy...
 \tg[Athan]I'm going, I'm going...
 \tg[Kyle]¡No hace falta que llames! ¡Entra!
-\tg[Kyle]No need to knock! Come in!
+\tg[Kyle]No need to knock! Just come in!
 \tg[Athan]¿No molestaré a nadie?
-\tg[Athan]I won't bother anyone?
+\tg[Athan]You're sure I'm not bothering someone?
 \tg[Kyle]¡Que no! ¡Hazlo!
-\tg[Kyle]No! Do it!
+\tg[Kyle]No! Just do it!
 \tg[Athan]Espero que no sea algún tipo de broma. Me gusta jugar, pero no es el momento.
-\tg[Athan]I hope it's not some kind of joke. I like to play, but now is not the time.
+\tg[Athan]I hope it's not some sort of joke. I like to play, but now is not the time.
 \tg[Athan]Con permiso...
-\tg[Athan]With permission...
+\tg[Athan]Excuse me...
 \tg[Athan]¿Pero qué...?
-\tg[Athan]But what...?
+\tg[Athan]Wait what...?
 \tg[Kyle]¿Ves? ¡No se puede entrar! ¡Seguro que has hecho algo, no te hagas el tonto!
-\tg[Kyle]See? You can't get in! I'm sure you've done something, don't act stupid!
+\tg[Kyle]See? You can't get in! I'm sure you've done something, don't play dumb!
 \tg[Athan]¡Yo no he hecho nada! ¡En serio!
-\tg[Athan]I haven't done anything! Seriously!
+\tg[Athan]I haven't done a thing! Seriously!
 \tg[Athan](¿Es esto a lo que se referían los Phione? Pero Kyle no parecía tener problemas con su casa antes de que yo llegara...)
-\tg[Athan](Is this what the Phiones were referring to? But Kyle didn't seem to have any problems with his house before I arrived...)
+\tg[Athan](Is this what the Phione were referring to? But Kyle didn't seem to have any issues with his house before I arrived...)
 \tg[Athan]Kyle, acompáñame un momento al mar. Hay algo que necesito comprobar.
 \tg[Athan]Kyle, come with me to the sea for a moment. There's something I need to check.
 \tg[Kyle]¿¡A-al mar!? ¿¡Intentas escaparte!?
-\tg[Kyle]To-to the sea!? Are you trying to escape!?
+\tg[Kyle]T-to the sea!? Are you trying to escape!?
 \tg[Athan]No, en absoluto. Necesito que seas testigo de algo, así que acompáñame.
-\tg[Athan]No, not at all. I need you to witness something, so come with me.
+\tg[Athan]No, not at all. I need you to witness something, so come with.
 \tg[Kyle]Bueno, ya está bien, ¿no?
 \tg[Kyle]Well, that's enough, right?
 \tg[Athan]Sí. Ya paro.
-\tg[Athan]Yes. I'll stop.
+\tg[Athan]Yes. we're good here.
 \tg[Kyogre]Voy a tratar de salir de la isla, pero volveré. Necesito que observes cómo me voy, y me digas si cuando vuelva has notado algo extraño.
 \tg[Kyogre]I'm going to try to leave the island, but I'll be back. I need you to watch me leave, and tell me if when I get back you've noticed anything strange.
 \tg[Kyle]¿¡Qué!? ¿Te vas a ir?
-\tg[Kyle]What!? Are you going to leave?
+\tg[Kyle]What!? You're leaving?
 \tg[Kyogre]No tardaré nada, lo prometo. ¿O quieres venir conmigo?
-\tg[Kyogre]It won't take long, I promise. Or do you want to come with me?
+\tg[Kyogre]I won't be long, I promise. Or do you want to come along?
 \tg[Kyogre]No me importa que subas a mi lomo.
-\tg[Kyogre]I don't mind if you climb on my back.
+\tg[Kyogre]I don't mind you riding on my back.
 \tg[Kyle]¡No, no, no, no, no! ¡Te creo! ¡Me quedaré aquí y esperaré!
-\tg[Kyle]No, no, no, no, no! I believe you! I'll stay here and wait!
+\tg[Kyle]No, no, no, no, no, I believe you! I'll stay here and wait!
 \tg[Kyogre](Vaya, parece que le doy miedo...)
-\tg[Kyogre](Wow, it looks like I'm afraid of him...)
+\tg[Kyogre](Wow, it looks he's afraid of me...)
 \tg[Kyogre]Bien, pues en seguida vuelvo.
-\tg[Kyogre]Okay, I'll be right back.
+\tg[Kyogre]Fine, in that case I'll be right back.
 Poco a poco, Kyle vio cómo Kyogre se alejaba de la orilla.
 Little by little, Kyle watched as Kyogre moved away from the shore.
 Sin embargo, llegado a cierto punto... No parecía avanzar más en la distancia.
-However, at a certain point... It didn't seem to move any further into the distance.
+However, at a certain point... The orca whale didn't seem to move any further into the distance.
 \tg[Athan]¿Y bien? ¿Qué has visto?
 \tg[Athan]Well? What did you see?
 \tg[Kyle]P-pues... Te ibas alejando, y en cierto punto te paraste y volviste...
-\tg[Kyle]W-well... You were walking away, and at a certain point you stopped and came back...
+\tg[Kyle]W-well... You were moving away, but at a certain point you stopped and came back...
 \tg[Athan](Me lo temía.)
-\tg[Athan](I was afraid of it.)
+\tg[Athan](I was afraid of this.)
 \tg[Athan]En ningún momento me he parado. Nunca he dejado de nadar, lo que quiere decir...
-\tg[Athan]At no point have I stopped. I have never stopped swimming, which means...
+\tg[Athan]At no point did I stop. I never stopped swimming, which means...
 \tg[Athan]\c[2]Que algo o alguien nos ha encerrado en el espacio de nuestro alrededor de alguna manera.</c>
 \tg[Athan]\c[2]That something or someone has locked us in the space around us in some way.</c>
 \tg[Kyle]¿Q-qué quiere decir eso? No lo entiendo...
 \tg[Kyle]W-what does that mean? I don't understand...
 \tg[Athan](Está claro que ocurrió cuando toqué ese anillo. ¿Acaso este chico me ha tendido una trampa? Dijo que quería capturarme, pero...)
-\tg[Athan](It's clear that it happened when I touched that ring. Did this guy set me up? He said he wanted to capture me, but...)
+\tg[Athan](It's clear that it happened when I touched that ring. Did this kid set me up? He said he wanted to catch me, but...)
 \tg[Kyle]¿Qué le ha pasado a mi mami? El viejo Wal se quedó dormido con ella en la casa... ¿Están bien? ¿No volveré a verlos?
-\tg[Kyle]What happened to my mommy? Old Wal fell asleep with her in the house... Are they okay? I won't see them again?
+\tg[Kyle]What happened to my mommy? Old Man Wal fell asleep with her in the house... Are they okay? Will I never see them again?
 \tg[Kyle]¿Y-y mi papi? Va a volver, ¿verdad? Voy a volver a ver a mis papás...
 \tg[Kyle]A-and my daddy? He's coming back, right? I'm going to see my parents again...
 \tg[Athan]Volverás a verlos. Tranquilo.
-\tg[Athan]You will see them again. Don't worry.
+\tg[Athan]You will see them again. Calm down.
 \tg[Athan]¡Soy el Rey del Mar, después de todo! ¡No será tan fácil encerrarnos sin más!
-\tg[Athan]I am the Sea King, after all! It won't be so easy to just lock us up!
+\tg[Athan]I am the King of the Sea, after all! It won't be so easy to just lock us up!
 \tg[Athan](Parece que no estaba involucrado. Entonces...)
-\tg[Athan](Looks like he wasn't involved. So...)
+\tg[Athan](Looks like he wasn't involved. Then...)
 \tg[Athan]Confía en mí, ¿vale? Ya has visto que soy un Pokémon grande, y te aseguro que también poderoso. No ocurrirá nada.
 \tg[Athan]Trust me, okay? You've already seen that I'm a big Pokémon, and I assure you, I'm also a powerful one. Nothing will happen.
 \tg[Kyle]Vale... Rey del Mar...
-\tg[Kyle]Okay... Sea King...
+\tg[Kyle]Okay... King od the Sea...
 \tg[Athan]Llámame Athan. Es el nombre de mi Forma humana.
 \tg[Athan]Call me Athan. It is the name of my human Form.
 \tg[Kyle]Vale, Athan.
@@ -10214,18 +10214,18 @@ However, at a certain point... It didn't seem to move any further into the dista
 \tg[Athan](Será mejor que busque una manera de salir de este bucle espacio-temporal cuanto antes.)
 \tg[Athan](I'd better find a way to get out of this space-time loop as soon as possible.)
 \tg[Kyle]¡Mi casa está al otro lado! ¡La has visto, y aun así quieres irte al bosque!
-\tg[Kyle]My house is on the other side! You've seen it, and you still want to go to the forest!
+\tg[Kyle]My house is on the other side! You've seen it, and you still trying to go to the forest!
 \tg[Athan]¡Quería echar un vistazo por aquí antes!
 \tg[Athan]I wanted to take a look around here first!
 \tg[Athan](Necesito comprobar una cosa en el mar.)
-\tg[Athan](I need to check something at sea.)
+\tg[Athan](I need to verify something at sea.)
 \w[]
 \w[]
 [Map445]
 [Map446]
 [Map447]
 \tg[Kyle]Eso es... ¿Una burbuja?
-\tg[Kyle]That's... A bubble?
+\tg[Kyle]Is that... A bubble?
 \tg[Athan]¡Ni un paso más, Kyle!
 \tg[Athan]Not one more step, Kyle!
 \tg[Kyle]¿¡D-de dónde has sacado ese paraguas!? Qué miedo...
