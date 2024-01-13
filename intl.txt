@@ -432,7 +432,7 @@ And they rested until the next day.
 \tg[Lucius]Y lleva una ahí. ¡Láncesela al primero que encuentre!
 \tg[Lucius]And carry one there. Throw it at the first one you find!
 \tg[Anthony]No es tan sencillo. No siempre se dejan capturar, y no tengo más.
-\tg[Anthony]It's not that simple. They don't always allow themselves to be captured, and I don't have anything else.
+\tg[Anthony]It's not that simple. They don't always allow themselves to get caught, and I don't have anything else.
 \tg[Anthony]Por otra parte, Wal está demasiado viejo para que lo arrastre a una pelea, y hace ya que liberé todos los Pokémon que tenía.
 \tg[Anthony]On the other hand, Wal is too old for me to drag him into a fight, and I already released all the Pokémon I had.
 \tg[Phione]Phione puede curar, pero luchar le es más difícil...
@@ -1480,7 +1480,7 @@ This would be the beginning of their adventures together by the sea.
 \tg[Lucius]Oiga, ¿sabe que yo soy el Guardián del Mar, Lugia?
 \tg[Lucius]Hey, do you know that I'm the Guardian of the Sea, Lugia?
 \tg[Lucius]Si le gustan los Magikarp, ¡capturaré cientos para usted si nos deja el barco!
-\tg[Lucius]If you like Magikarp, I'll capture hundreds for you if you let us have the ship!
+\tg[Lucius]If you like Magikarp, I'll catch hundreds of them for you if you let us have the ship!
 \tg[Navegante]¿¡L-Lugia!? ¿Pero qué dice?
 \tg[Navigator]L-Lugia!? But what does it say?
 \tg[Anthony]¡Nada! ¡Ni caso!
@@ -2568,7 +2568,7 @@ But, at midnight...
 \tg[Lucius]No sabría decirle sobre el amor verdadero, pero lo cierto es que son muy deliciosos.
 \tg[Lucius]I couldn't tell you about true love, but the truth is that they are very delicious.
 \tg[Lucius]Si lo desea, en cuanto recupere mi Forma Pokémon capturaré uno y se lo enseñaré antes de comérmelo.
-\tg[Lucius]If you wish, as soon as I regain my Pokémon Form I will capture one and show it to you before eating it.
+\tg[Lucius]If you wish, as soon as I regain my Pokémon Form I will catch one and show it to you before eating it.
 \tg[Phione]Eso le quita todo el romanticismo, fí.
 \tg[Phione]That takes away all the romanticism, fi.
 \tg[Ciudadano]¿Adónde vais? ¿Al Bosque?
@@ -5031,7 +5031,7 @@ Aaaaaaaaaaaaaaaaah!
 \tg[Oliver]Las Poké Balls son un invento muy útil, sí.
 \tg[Oliver]Poké Balls are a very useful invention, yes.
 \tg[Oliver]¿Tal vez debí haber capturado a la Primera mientras estaba en su Forma Pokémon?
-\tg[Oliver]Maybe I should have captured the First while she was in her Pokémon Form?
+\tg[Oliver]Maybe I should have caught the First while she was in her Pokémon Form?
 \tg[Oliver]<i>Whatever</i>, lo importante es que he cumplido con la petición de mi cliente.
 \tg[Oliver]<i>Whatever</i>, the important thing is that I have complied with my client's request.
 \tg[Oliver]Una pena por ese hombre, pero él se lo ha buscado. Era la vida de la Primera a cambio de la libertad de los habitantes de la isla.
@@ -5688,7 +5688,7 @@ Aaaaaaaaaaaaaaaaah!
 \tg[Anthony]¡Tch!
 \tg[Anthony]Tch!
 \tg[???]¿Qué pretendes hacer con esa Poké Ball, Anthony? Si quieres perder el tiempo intentando capturarme, al menos haz el favor de limpiarla antes. Qué horror.
-\tg[???]What do you intend to do with that Poké Ball, Anthony? If you want to waste your time trying to capture me, at least please clean it first. How horrible.
+\tg[???]What do you intend to do with that Poké Ball, Anthony? If you want to waste your time trying to catch me, at least please clean it first. How horrible.
 \tg[Anthony]Tranquilo, no quiero una orca desagradecida en mi equipo.
 \tg[Anthony]Don't worry, I don't want an ungrateful orca on my team.
 \tg[Anthony]¡Pero no me quedaré de brazos cruzados si sigues atacando a Lucius!
@@ -6660,7 +6660,7 @@ No
 \tg[Phione]¡Ja, ja, ja!
 \tg[Phione]Ha ha ha!
 \tg[Anthony]¡Lucius capturado!
-\tg[Anthony]Lucius captured!
+\tg[Anthony]Lucius caught!
 \tg[Lucius](...)
 \tg[Lucius](...)
 \tg[Lucius]¡PHIONE!
@@ -7048,7 +7048,7 @@ Hmm...
 Atención: No podrás interactuar con las burbujas de Praná mientras Lucius no esté contigo.
 Attention: You will not be able to interact with the Prana bubbles while Lucius is not with you.
 Sin embargo, la probabilidad de poder capturar un Pokémon tras derrotarlo en combate será incrementada.
-However, the probability of being able to capture a Pokémon after defeating it in battle will be increased.
+However, the probability of being able to catch a Pokémon after defeating it in battle will be increased.
 Podrás obtenerlos aun si tienes alguna restricción activa.
 You can obtain them even if you have any active restrictions.
 [Map192]
@@ -7536,7 +7536,7 @@ Meanwhile...
 \tg[Kyle]No es posible mantener un Pokémon dentro a no ser que realmente haya forjado un vínculo con su Portador, y si el Portador o el Pokémon fallecen... La Poké Ball se abre y deja de funcionar.
 \tg[Kyle]It is not possible to keep a Pokémon inside unless it has truly forged a bond with its Holder, and if the Holder or the Pokémon dies... The Poké Ball opens and stops working.
 \tg[Athan]Bastante curioso. En lo personal, preferiría que los Pokémon viviesen por su cuenta, así que liberaré los que he capturado en cuanto salgamos de aquí.
-\tg[Athan]Funny enough. Personally, I'd prefer the Pokémon to live on their own, so I'll release the ones I've captured as soon as we get out of here.
+\tg[Athan]Funny enough. Personally, I'd prefer the Pokémon to live on their own, so I'll release the ones I've caught as soon as we get out of here.
 \tg[Kyle]Podría tener un ejército de Pokémon grandotes con los que enfrentarme a ti si no me hubieses quitado esa Poké Ball, ladrón.
 \tg[Kyle]I could have an army of big Pokémon to fight you with if you hadn't taken that Poké Ball from me, thief.
 \tg[Athan]Empieza por algo más normalito, ¿quieres? Sé que todavía te queda una Poké Ball... ¿Qué te parece un Rowlet?
@@ -9104,7 +9104,7 @@ So, Anthony, Lucius and Phione collected everything that could serve as fuel and
 \tg[Oliver]¡Se lo advertí! Yo soy un hombre con muchos medios... ¡Liberaré a mi cliente incluso tras haber perdido el juicio!
 \tg[Oliver]I warned you! I am a man of many means... I will free my client even after having lost my mind!
 \tg[Ártica]¡Su cliente fue en búsqueda de Kyogre y capturó varios Wailord en su lugar, especies muy preciadas en la isla! ¡Querer "expandir los océanos" no es una excusa válida!
-\tg[Arctic]Your client went in search of Kyogre and captured several Wailord instead, highly prized species on the island! Wanting to "expand the oceans" is not a valid excuse!
+\tg[Arctic]Your client went in search of Kyogre and caught several Wailord instead, highly prized species on the island! Wanting to "expand the oceans" is not a valid excuse!
 \tg[Phione]Hasta Phione puede ver el problema con eso...
 \tg[Phione]Even Phione can see the problem with that...
 \tg[Lucius]Por supuesto, ¡muchos árboles frutales se inundarán!
@@ -30589,7 +30589,7 @@ La Poké Ball definitiva. Atrapa a cualquier Pokémon salvaje y no falla nunca.
 The ultimate Poké Ball. Catches any wild Pokémon and never fails.
 265
 Poké Ball de rendimiento superior. Tiene más índice de éxito que la Superball.
-Poké Ball with superior performance. It has a higher success rate than the Superball.
+Poké Ball with superior performance. It has a higher success rate than the Great Ball.
 266
 Poké Ball de alto rendimiento. Tiene un índice de éxito superior al de la Poké Ball.
 High-performance Poké Ball. It has a higher success rate than the Poké Ball.
@@ -30619,7 +30619,7 @@ Una Poké Ball algo distinta que va mejorando su rendimiento con cada turno de c
 A somewhat different Poké Ball that improves its performance with each turn of combat.
 275
 Acogedora Poké Ball que hace más amistosos a los Pokémon salvajes capturados.
-Cozy Poké Ball that makes captured wild Pokémon friendlier.
+Cozy Poké Ball that makes caught wild Pokémon friendlier.
 276
 Es una Poké Ball muy particular que se creó para conmemorar algún acontecimiento.
 It is a very particular Poké Ball that was created to commemorate some event.
@@ -30628,10 +30628,10 @@ Es algo distinta. Hace que sea más fácil capturar a Pokémon salvajes en la os
 It's a little different. It makes it easier to catch wild Pokémon in the dark.
 278
 Poké Ball curativa que restaura los PS de un Pokémon capturado y cura sus problemas de estado.
-Healing Poké Ball that restores the HP of a captured Pokémon and cures its status problems.
+Healing Poké Ball that restores the HP of a caught Pokémon and cures its status problems.
 279
 Una Poké Ball algo distinta que potencia el índice de captura si se usa al inicio de un encuentro con Pokémon salvajes.
-A slightly different Poké Ball that boosts the capture rate if used at the beginning of an encounter with wild Pokémon.
+A slightly different Poké Ball that boosts the catch rate if used at the beginning of an encounter with wild Pokémon.
 280
 Es una Poké Ball muy particular que se creó para conmemorar algún acontecimiento.
 It is a very particular Poké Ball that was created to commemorate some event.
@@ -30640,22 +30640,22 @@ Poké Ball algo distinta, especialmente indicada para capturar Pokémon con Velo
 Somewhat different Poké Ball, especially suitable for capturing Pokémon with very high Speed.
 282
 Una Poké Ball diseñada para capturar Pokémon de nivel inferior al de tu Pokémon.
-A Poké Ball designed to capture Pokémon of a lower level than your Pokémon.
+A Poké Ball designed to catch Pokémon of a lower level than your Pokémon.
 283
 Poké Ball algo distinta, especialmente indicada para capturar los Pokémon que se han pescado con una Caña.
 Somewhat different Poké Ball, especially suitable for capturing Pokémon that have been caught with a Rod.
 284
 Una Poké Ball diseñada para capturar Pokémon muy pesados.
-A Poké Ball designed to capture very heavy Pokémon.
+A Poké Ball designed to catch very heavy Pokémon.
 285
 Una Poké Ball diseñada para capturar Pokémon del género opuesto al de tu Pokémon.
-A Poké Ball designed to capture Pokémon of the opposite gender to your Pokémon.
+A Poké Ball designed to catchh Pokémon of the opposite gender to your Pokémon.
 286
 Una Poké Ball que hace más amistosos a los Pokémon capturados.
-A Poké Ball that makes captured Pokémon friendlier.
+A Poké Ball that makes caught Pokémon friendlier.
 287
 Una Poké Ball diseñada para capturar Pokémon que evolucionan con Piedra Lunar.
-A Poké Ball designed to capture Pokémon that evolve with Moonstone.
+A Poké Ball designed to catch Pokémon that evolve with a Moonstone.
 288
 El usuario se afila las garras para aumentar su Ataque y Precisión.
 The user sharpens his claws to increase his Attack and Accuracy.
@@ -31630,7 +31630,7 @@ Riendas que permiten el entendimiento mutuo entre aquellos que están unidos.
 Reins that allow mutual understanding between those who are united.
 613
 Un tipo especial de Poké Ball diseñada para capturar de forma específica a los Ultraentes.
-A special type of Poké Ball designed to specifically capture Ultra Beasts.
+A special type of Poké Ball designed to specifically catch Ultra Beasts.
 614
 Piedra negra que posee cualidades similares a las del cristal y cuyos bordes son muy afilados al partirse. Le encanta a cierto Pokémon.
 Black stone that has qualities similar to those of glass and whose edges are very sharp when broken. A certain Pokémon loves it.
@@ -33576,7 +33576,7 @@ Cambia el tipo del poseedor al del movimiento a usar.
 Change the type of the possessor to that of the movement to be used.
 236
 Si no lleva equipado ningún objeto, recupera la Poké Ball del primer intento de captura fallido.
-If no item is equipped, recover the Poké Ball from the first failed capture attempt.
+If no item is equipped, recover the Poké Ball from the first failed catch attempt.
 237
 Cuando es afectado por un ataque, con su pelusa reduce la Velocidad de los demás Pokémon en combate.
 When affected by an attack, its fluff reduces the Speed ​​of other Pokémon in battle.
@@ -39015,7 +39015,7 @@ use {1}
 ¡{1} empezó a concentrarse!
 {1} started to concentrate!
 ¡Pero falló
-But failed
+But it failed!
 ¡{1} no puede usar movimientos sonoros!
 {1} cannot use sound moves!
 ¡El Mandato falló!
@@ -39069,19 +39069,19 @@ It was stored in the box "{1}".
 ¡El entrenador ha bloqueado la Poké Ball!<<n>>¡No seas un ladrón!
 The trainer has blocked the Poké Ball!<<n>>Don't be a thief!
 No puedes capturar a este Pokémon.
-You can't capture this Pokémon.
+You can't catch this Pokémon.
 ¡Oh no! ¡El Pokémon se ha escapado!
-Oh no! The Pokémon has escaped!
+Oh no! The Pokémon broke free!
 ¡Vaya! ¡Parecía que ya estaba capturado!
-Wow! It seemed like he was already captured!
+Awww! It appeared to be caught!
 ¡Aargh! ¡Casi lo tenías!
-Aargh! You almost had it!
+Aargh! Almost had it!
 ¡Uy! ¡Estuvo demasiado cerca!
-Oops! That was too close!
+Gah! It was so close, too!
 ¡Sí! ¡{1} ha sido capturado!
-Yes! {1} has been captured!
+Gotcha! {1} was caught!
 Se agregaron los datos de {1} en la Pokédex.
-Data for {1} has been added to the Pokédex.
+{1}'s data has been added to the Pokédex.
 El equipo 1 no tiene Pokémon.
 Team 1 has no Pokémon.
 El equipo 2 no tiene Pokémon.
@@ -39091,13 +39091,13 @@ Battles with more than two wild Pokémon are not allowed.
 El {1} rival
 The {1} rival
 El {1} salvaje
-The {1} savage
+The wild {1}
 Mega Net
 Mega Net
 Mega Aro
-Mega Aro
+Mega Ring
 ¡No quedan PP para este movimiento!
-There are no PP left for this movement!
+There are no PP left for this move!
 ¡El {1} impide el uso de movimientos de estado!
 {1} prevents the use of status moves!
 ¡La {1} solo permite el uso de {2}!
@@ -39105,7 +39105,7 @@ There are no PP left for this movement!
 ¡{1} no puede usar {2} por estar sellado!
 {1} cannot use {2} because it is sealed!
 ¡{1} no puede usar {2} por la mofa!
-{1} can't use {2} because of the mockery!
+{1} can't use {2} because of the taunt!
 ¡{1} no puede usar {2} en este turno!
 {1} cannot use {2} this turn!
 ¡{1} no puede utilizar el mismo movimiento dos veces seguidas debido al tormento!
@@ -39113,31 +39113,31 @@ There are no PP left for this movement!
 ¡{1} tiene deshabilitado {2}!
 {1} has {2} disabled!
 ¡{1} no ha comido ninguna baya, por lo que no se puede reciclar!
-{1} hasn't eaten any berries, so it can't be recycled!
+{1} hasn't eaten any berries, so it can't recycle!
 ¡El Pokémon no puede usar el movimiento al no tener ninguna baya equipada!
-The Pokémon cannot use the move as it does not have any berries equipped!
+The Pokémon cannot use this move as it does not have any berries equipped!
 ¡{1} solo puede usar {2}!
 {1} can only use {2}!
 ¡A {1} no le quedan movimientos!
 {1} has no moves left!
 ¡{1} se mueve primero gracias a la {2}!
-{1} moves first thanks to {2}!
+{1} moved first thanks to {2}!
 ¡{1} se mueve primero gracias a Mano Rápida!
-{1} moves first thanks to Quick Hand!
+{1} moved first thanks to Quick Hand!
 ¡Un Huevo no puede pelear!
 An Egg can't fight!
 ¡No puedes cambiar ese Pokémon por uno de los tuyos!
-You can't change that Pokémon for one of yours!
+You can't exchange that Pokémon for one of yours!
 ¡{1} no tiene más energías para pelear!
-{1} has no more energy to fight!
+{1} can no longer fight!
 ¡{1} ya está en el campo de batalla!
 {1} is already on the battlefield!
 {1} ya está seleccionado.
 {1} is already selected.
 ¡{1} no puede ser cambiado!
-{1} cannot be changed!
+{1} cannot be switched out!
 ¡La habilidad {2} de {1} impide el cambio!
-{1}'s {2} ability prevents the change!
+{1}'s {2} ability prevents the switch!
 {1} está por enviar a {2}.
 {1} is about to send {2}.
 {1}, ¿quieres cambiar de Pokémon?
@@ -39145,17 +39145,17 @@ You can't change that Pokémon for one of yours!
 ¡{1}, es suficiente! ¡Regresa!
 {1}, that's enough! Come back!
 ¿Quieres cambiar de Pokémon?
-Do you want to change Pokémon?
+Do you want to switch Pokémon?
 ¡Adelante! ¡{1}!
 Go ahead! {1}!
 ¡Tú puedes! ¡{1}!
-You can! {1}!
+You can do it! {1}!
 ¡Ya lo tienes, {1}!
 You got it, {1}!
 ¡Tu rival está débil!<<n>>¡A por él, {1}!
-Your rival is weak!<<n>>Go for it, {1}!
+Your opponent's weak!<<n>>Get 'em, {1}!
 ¡Se ha enviado a {1}!
-It has been sent to {1}!
+Has been sent to {1}!
 {1} ha usado<<n>>{2}.
 {1} ha usado<<r>><<n>>{2}.
 ¡Pero no tuvo efecto!
@@ -39163,43 +39163,43 @@ But it had no effect!
 De alguna forma no se pudo devolver el objeto sin usar a la mochila.
 Somehow the unused item could not be returned to the backpack.
 ¡El efecto de Embargo impide usar el objeto en {1}!
-The Embargo effect prevents the item from being used on {1}!
+The Embargo prevents the item from being used on {1}!
 Por alguna razón, no se pudo devolver el objeto a la mochila.
 For some reason, the item could not be returned to the backpack.
 ¡Es imposible apuntar sin concentrarse!
-It is impossible to aim without concentrating!
+It is impossible to aim without focusing!
 Los PS de {1} fueron restaurados.
-{1}'s HP were restored.
+{1}'s HP was restored.
 ¡{1} se puso saludable!
-{1} got healthy!
+{1} became healthy!
 ¿Tratar esta batalla como una victoria?
 Treat this battle as a victory?
 ¿Tratar esta batalla como una derrota?
 Treat this battle as a defeat?
 ¡No se puede escapar de una batalla contra un entrenador!
-You can't escape a battle against a trainer!
+You can't run from a trainer battle!
 ¿Quieres perder el duelo y salir ahora?
-Do you want to lose the duel and leave now?
+Do you want to forfeit the duel and leave now?
 ¡{1} perdió el duelo!
 {1} lost the duel!
 ¡Escapaste sin problemas!
-You escaped without problems!
+Got away safely!
 ¡No conseguiste escapar!
-You didn't manage to escape!
+Can't Escape!
 ¡{1} ha escapado usando Fuga!
-{1} has escaped using Fugue!
+{1} has escaped thanks to Run Away!
 ¡{1} ha escapado usando la {2}!
-{1} has escaped using {2}!
+{1} ran away using using the {2}!
 {Se activó Huída de {1}!
-{{1} Escape was activated!
+{{1} Wimp Out was activated!
 ¡{1} escapó gracias a Huída!
-{1} escaped thanks to Escape!
+{1} escaped thanks to Wimp Out!
 {Se activó Retirada de {1}!
-{Retreat of {1} was activated!
+{{1}'s Emergency Exit was activated!
 ¡{1} escapó gracias a Retirada!
-{1} escaped thanks to Retreat!
+{1} escaped thanks to Emergency Exit!
 ¡El ruego vehemente de {1} alcanza a {2}!
-{1}'s vehement plea reaches out to {2}!
+{1}'s vehement plea reaches {2}!
 ¡La {2} de {1} está reaccionando al {4} de {3}!
 {1}'s {2} is reacting to {3}'s {4}!
 Mega {1}
@@ -39207,25 +39207,25 @@ Mega {1}
 ¡{1} ha Mega Evolucionado en {2}!
 {1} has Mega Evolved into {2}!
 ¡{1} ha experimentado una Regresión Primigenia y ha recobrado su apariencia primitiva!
-{1} has undergone a Primal Regression and has regained its primitive appearance!
+{1} has undergone a Primal Regression and has regained its primal form!
 ¡{1} emite una luz cegadora!
 {1} emits a blinding light!
 Ultra {1}
 Ultra {1}
 ¡{1} ha adoptado una nueva forma gracias a la Ultraexplosión!
-{1} has taken on a new form thanks to the Ultra Blast!
+{1} has taken on a new form thanks to the Ultra Burst!
 ¡Ánimo, {1}!
 Cheer up, {1}!
 ¡El resto del equipo también ha ganado Puntos de Experiencia gracias al {1}!
-The rest of the team has also gained Experience Points thanks to {1}!
+The rest of the team has also gained Experience Points thanks to the {1}!
 ¡{1} ha ganado un total de {2} Puntos de Experiencia!
-{1} has earned a total of {2} Experience Points!
+{1} has gained a total of {2} Experience Points!
 ¡{1} ha ganado {2} Puntos de Experiencia!
 {1} has gained {2} Experience Points!
 El nivel nuevo ({1}) es menor que el nivel actual<<n>>del Pokémon ({2}), lo que no debería pasar.<<n>><<[>>Depurar: {3}<<]>>
 El nivel nuevo ({1}) es menor que el nivel actual<<r>><<n>>del Pokémon ({2}), lo que no debería pasar.<<r>><<n>><<[>>Depurar: {3}<<]>>
 ¡{1} subió al nivel {2}!
-{1} rose to level {2}!
+{1} grew to level {2}!
 ¡{1} ha aprendido {2}!
 {1} has learned {2}!
 {1} quiere aprender el movimiento {2}.
@@ -39235,21 +39235,21 @@ But {1} already knows four moves.
 ¿Quieres sustituir uno de esos movimientos por {1}?
 Do you want to replace one of those moves with {1}?
 ¿Qué movimiento quieres que olvide?
-What move do you want me to forget?
+Which move do you want to forget?
 1, 2 y...
-12 and...
+1, 2, and...
 ¡Puf!
-Puff!
+Poof!
 ¡{1} ha olvidado cómo utilizar {2}!
 {1} has forgotten how to use {2}!
 Y...
 AND...
 ¿Prefieres que {1} no aprenda {2}?
-Would you prefer that {1} not learn {2}?
+Do you want to stop {1} from learning {2}?
 {1} no ha aprendido {2}.
-{1} has not learned {2}.
+{1} did not learn {2}.
 ¡Alto!<<n>>¡Un Pokémon Oscuro!
-Stop!<<n>>A Dark Pokémon!
+Stop!<<n>>A Shadow Pokémon!
 ¡El deseo de {1} se hizo realidad!
 {1}'s wish came true!
 ¡{1} se rodeó de una luz lunar misteriosa!
@@ -39261,11 +39261,11 @@ Stop!<<n>>A Dark Pokémon!
 ¡Las Púas Tóxicas lanzadas alrededor de {1} desaparecieron!
 The Toxic Spikes thrown around {1} disappeared!
 ¡{1} ha sido gravemente envenenado por las Púas Tóxicas!
-{1} has been severely poisoned by the Toxic Spikes!
+{1} has been badly poisoned by the Toxic Spikes!
 ¡{1} ha sido envenenado por las Púas Tóxicas!
 {1} has been poisoned by the Toxic Spikes!
 ¡{1} ha sido atrapado en la Red Viscosa!
-{1} has been trapped in the Viscose Web!
+{1} has been caught in the Sticky Web!
 Equipo 1 tiene más de {1} Pokémon.
 Team 1 has more than {1} Pokémon.
 Equipo 2 tiene más de {1} Pokémon.
@@ -39273,33 +39273,33 @@ Team 2 has more than {1} Pokémon.
 Sólo se permiten dos Pokémon salvajes en una batalla doble
 Only two wild Pokémon are allowed in a double battle
 Un {1} salvaje...
-A {1} savage...
+A wild {1}...
 Sólo se permite un Pokémon salvaje en batallas individuales
 Only one wild Pokémon is allowed in individual battles
 ¡Aparecieron {1} y<<n>>{2} salvajes!
-¡Aparecieron {1} y<<r>><<n>>{2} salvajes!
+¡Wild {1} and<<r>><<n>>{2} appeared!
 Sólo se permite uno o dos Pokémon salvajes en batallas dobles
 Only one or two wild Pokémon are allowed in double battles
 Rivales con cero o más de dos personas no están permitidos
 Rivals with zero or more than two people are not allowed
 Entrenadores jugadores con cero o más de dos personas no están permitidos
-Player coaches with zero or more than two people are not allowed
+Player trainers with zero or more than two people are not allowed
 ¡{1} y {2}<<n>>te desafían!
-¡{1} y {2}<<r>><<n>>te desafían!
+¡{1} and {2}<<r>><<n>>would like to battle!
 El oponente 1 no tiene ningún Pokémon saludable
-Opponent 1 does not have any healthy Pokémon
+Opponent 1 does not have any Pokémon that can fight
 El oponente 2 no tiene ningún Pokémon saludable
-Opponent 2 doesn't have any healthy Pokémon
+Opponent 2 doesn't have any Pokemon that can fight
 ¡{1} envió<<n>>a {2}!
-¡{1} envió<<r>><<n>>a {2}!
+¡{1} sent out<<r>><<n>> {2}!
 ¡{1}<<n>>te desafía!
-¡{1}<<r>><<n>>te desafía!
+¡{1}<<r>><<n>>would like to battle!
 El oponente no tiene dos Pokémon saludables
-The opponent doesn't have two healthy Pokémon
+The opponent doesn't have two Pokémon that can fight
 ¡{1} envió<<n>>a {2} y {3}!
-¡{1} envió<<r>><<n>>a {2} y {3}!
+¡{1} sent out<<r>><<n>>{2} and {3}!
 El Entrenador no tiene ningún Pokémon saludable
-Trainer doesn't have any healthy Pokémon
+Trainer is out of usable Pokémon
 El oponente debe tener un sólo participante en batallas individuales
 The opponent must have only one participant in individual battles
 El jugador debe tener un sólo participante en batallas individuales
@@ -39307,7 +39307,7 @@ The player must have only one participant in individual battles
 El jugador 1 no tiene ningún Pokémon saludable
 Player 1 does not have any healthy Pokémon
 El jugador 2 no tiene ningún Pokémon saludable
-Player 2 does not have any healthy Pokémon
+Player 2 does not have any Pokémon that can fight!
 ¡Adelante, {3}! ¡Lucius está de nuestro lado!
 Go ahead, {3}! Lucius is on our side!
 ¡Adelante, {3}! ¡Zaza ayudará!
@@ -39321,11 +39321,11 @@ It's time to end this.
 ¡{1} envió<<n>>a {2}! ¡Adelante, {3}!
 ¡{1} envió<<r>><<n>>a {2}! ¡Adelante, {3}!
 El jugador no tiene dos Pokémon saludables
-The player does not have two healthy Pokémon
+The player does not have two Pokémon that can fight
 ¡Adelante, {1} y {2}!
 Go ahead, {1} and {2}!
 El jugador no tiene ningún Pokémon saludable
-The player does not have any healthy Pokémon
+The player does not have any Pokémon that can fight
 ¡Obedece mis comandos, {1}!
 Obey my commands, {1}!
 ¡A pelear, {1}!
@@ -39333,23 +39333,23 @@ Let's fight, {1}!
 ¡Adelante, {1}!
 Go ahead, {1}!
 Hace mucho sol...
-It's very sunny...
+The sunlight is strong...
 Sigue lloviendo...
-Still raining...
+Rain continues to fall...
 La tormenta de arena arrecia...
-The sandstorm rages...
+The sandstorm rages on...
 Sigue nevando...
-It keeps hailing...
+The hail continues to fall...
 Sigue diluviando...
-It keeps pouring...
+The heavy rain continues to pour...
 El sol sigue realmente abrasador...
-The sun is still really scorching...
+The harsh sunlight still scorching...
 Las misteriosas turbulencias continúan con fuerza...
-The mysterious turbulence continues strongly...
+The mysterious air current continues to blow...
 ¡Este es un combate de \c[2]aguante</c>! ¡Trata de resistir hasta que acaben los turnos indicados!
-This is a battle of \c[2]stamina</c>! Try to resist until the indicated turns are over!
+This is a battle of \c[2]stamina</c>! Try to hold on until the indicated turns are over!
 ¡{1} no se puede liberar de la Caída Libre!
-{1} cannot be released from Free Fall!
+{1} cannot be released from Sky Drop!
 ...
 ...
 Los objetos no se pueden utilizar aquí.
@@ -39357,13 +39357,13 @@ Items cannot be used here.
 ¡{1} saca a {2}!
 {1} takes out {2}!
 ¡{1}, cambio!<<n>>¡Vuelve aquí!
-¡{1}, cambio!<<r>><<n>>¡Vuelve aquí!
+¡{1}, switch!<<r>><<n>>¡Come back!
 ¡{1} está reforzando su concentración!
-{1} is strengthening his concentration!
+{1} is getting pumped!
 ¡{1} empezó a calentar su pico!
 {1} started to warm up his beak!
 Se ha ido el sol.
-The sun has gone.
+The sunlight is gone.
 ¡{1} perdió algunos PS debido al Poder Solar!
 {1} lost some HP due to Solar Power!
 Ha dejado de llover.
@@ -39371,19 +39371,19 @@ It has stopped raining.
 La tormenta de arena amainó.
 The sandstorm subsided.
 ¡La tormenta de arena zarandea a {1}!
-The sandstorm shakes {1}!
+The sandstorm buffets {1}!
 Ha dejado de nevar.
 It has stopped hailing.
 ¡La nieve zarandea a {1}!
-The hail shakes {1}!
+The hail buffets {1}!
 ¡El diluvio ha terminado!
-The flood is over!
+The heavy rainfall has subsided!
 Sigue diluviando con fuerza...
-It continues to pour heavily...
+Heavy rainfall continues to fall...
 ¡El sol vuelve a brillar como siempre!
 The sun shines again as always!
 El sol sigue siendo abrasador...
-The sun is still scorching...
+The harsh sunlight continues to scorch...
 ¡{1} ha sido dañado por la luz solar!
 {1} has been damaged by sunlight!
 ¡Las misteriosas turbulencias han amainado!
@@ -39395,11 +39395,11 @@ The sky is still dark...
 ¡{1} ha sido dañado por el cielo oscuro!
 {1} has been damaged by the dark sky!
 ¡{1} ha sufrido el ataque {2}!
-{1} has suffered the attack {2}!
+{1} has was damaged by {2}!
 ¡{1} ha restaurado algunos PS gracias a {2}!
 {1} has restored some HP thanks to {2}!
 ¡{1} ha restaurado algunos PS por su {2}!
-{1} has restored some HP for his {2}!
+{1} has restored some HP for its {2}!
 ¡{1} ha sido dañado por la fuerte luz del sol sobre su {2}!
 {1} has been damaged by the strong sunlight on its {2}!
 {1} ha restaurado algunos PS con {2}!
@@ -39409,29 +39409,29 @@ The sky is still dark...
 ¡{1} fue sanado!
 {1} was healed!
 ¡{2} de {1} lo despertó!
-{2} of {1} woke him up!
+{2} of {1} woke it up!
 ¡{2} de {1} le quitó el sueño a su compañero!
-{2} of {1} kept his partner awake at night!
+{2} of {1} kept woke its partner up!
 ¡{2} de {1} le curó el venenó a su compañero!
-{2} of {1} cured his partner's poison!
+{2} of {1} cured its partner's poison!
 ¡{2} de {1} le curó la quemadura a su compañero!
-{2} of {1} healed his partner's burn!
+{2} of {1} healed its partner's burn!
 ¡{2} de {1} liberó de la parálisis a su compañero!
-{2} of {1} freed his partner from paralysis!
+{2} of {1} freed its partner from paralysis!
 ¡{2} de {1} descongeló a su compañero!
-{2} of {1} thawed his partner!
+{2} of {1} thawed its partner!
 Los PS de {1} han sido recuperados.
 {1}'s HP have been recovered.
 ¡Acua Aro ha recuperado salud de {1}!
-Acua Aro has recovered {1} health!
+Aqua Ring has recovered {1}'s health!
 ¡{1} ha absorbido nutrientes con las raíces!
-{1} has absorbed nutrients with the roots!
+{1} has absorbed nutrients with its roots!
 ¡{1} ha absorbido el Lodo Líquido!
-{1} has absorbed the Liquid Sludge!
+{1} has absorbed the Liquid Ooze!
 ¡Las drenadoras restaron salud a {1}!
-The drainers took health away from {1}!
+{1}'s health has been drained!
 ¡{1} ha recuperado salud gracias al Antídoto!
-{1} has regained health thanks to the Antidote!
+{1} has recovered from its poison thanks to the Antidote!
 ¡{1} está inmerso en una Pesadilla!
 {1} is immersed in a Nightmare!
 ¡{1} se liberó de {2}!
@@ -39439,47 +39439,47 @@ The drainers took health away from {1}!
 ¡{1} ha sido dañado por {2}!
 {1} has been damaged by {2}!
 ¡{1} puede volver a utilizar movimientos sonoros!
-{1} can use sound movements again!
+{1} can use sound-based movements again!
 ¡Otra Vez ya no hace efecto en {1}!
-Again no longer has an effect on {1}!
+{1} broke free from the Encore!
 ¡El electromagnetismo de {1} desapareció!
 {1}'s electromagnetism disappeared!
 ¡{1} se liberó de la Telequinesis!
 {1} broke free from Telekinesis!
 ¡Anticura ya no hace efecto en {1}!
-Antique no longer takes effect on {1}!
+Heal Block is no longer affecting {1}!
 ¡{1} puede volver a usar objetos!
 {1} can use items again!
 ¡El contador de salud de {1} bajó a {2}!
 {1}'s health counter dropped to {2}!
 ¡Los efectos de Reflejo de tu equipo se disiparon!
-Your team's Reflection effects dissipated!
+Your team's Reflect dissipated!
 ¡Los efectos de Reflejo del equipo enemigo se disiparon!
-The enemy team's Reflection effects dissipated!
+The opponent's Reflect dissipated!
 ¡Los efectos de Pantalla de Luz de tu equipo se disiparon!
-Your team's Light Screen effects dissipated!
+Your team's Light Screen dissipated!
 ¡Los efectos de Pantalla de Luz del equipo enemigo se disiparon!
-The enemy team's Light Screen effects dissipated!
+The opponent's Light Screen dissipated!
 ¡Los efectos de Velo Aurora de tu equipo se disiparon!
-Your team's Aurora Veil effects have dissipated!
+Your team's Aurora Veil has dissipated!
 ¡Los efectos de Velo Aurora del equipo enemigo se disiparon!
-The enemy team's Aurora Veil effects dissipated!
+The opponent's Aurora Veil dissipated!
 ¡Velo Sagrado de tu equipo dejó de hacer efecto!
-Your team's Holy Veil stopped taking effect!
+Your team's Safeguard dissipated!
 ¡Velo Sagrado del equipo enemigo dejó de hacer efecto!
-Enemy team's Holy Veil stopped taking effect!
+The opponent's Safeguard dissipated!
 ¡Neblina de tu equipo dejó de hacer efecto!
-Your team's mist stopped taking effect!
+Your team's mist dissipated!
 ¡Neblina del equipo enemigo dejó de hacer efecto!
-Enemy team's mist stopped taking effect!
+The opponent's mist dissipated!
 ¡Viento Afín de tu equipo dejó de hacer efecto!
-Your team's Tailwind stopped taking effect!
+Your team's Tailwind petered out!
 ¡Viento Afín del equipo enemigo dejó de hacer efecto!
-Enemy team's Tailwind stopped taking effect!
+Oppoent's Tailwind petered out!
 ¡Conjuro de tu equipo dejó de hacer efecto!
-Your team's spell stopped taking effect!
+Your team's Lucky Veil dissipated!
 ¡Conjuro del equipo enemigo dejó de hacer efecto!
-Enemy team's spell stopped taking effect!
+The opponent's Lucky Veil dissipated!
 ¡El pantano que rodeaba a tu equipo desapareció!
 The swamp surrounding your team disappeared!
 ¡El pantano que rodeaba al equipo enemigo desapareció!
@@ -39487,43 +39487,43 @@ The swamp surrounding the enemy team disappeared!
 ¡El mar de lava que rodeaba a tu equipo desapareció!
 The sea of ​​lava that surrounded your team disappeared!
 ¡El mar de lava que rodeaba al equipo enemigo desapareció!
-The sea of ​​lava surrounding the enemy team disappeared!
+The sea of ​​lava surrounding the the opposing team disappeared!
 ¡El arco iris que rodeaba a tu equipo desapareció!
 The rainbow that surrounded your team disappeared!
 ¡El arco iris que rodeaba al equipo enemigo desapareció!
-The rainbow surrounding the enemy team disappeared!
+The rainbow surrounding the opposing team disappeared!
 ¡La Gravedad volvió a la normalidad!
 Gravity returned to normal!
 ¡Las dimensiones alteradas volvieron a la normalidad!
-The altered dimensions returned to normal!
+The twisted dimensions returned to normal!
 ¡Se terminaron los efectos de Zona Extraña!
-The effects of Strange Zone are over!
+The effects of Wonder Room are over!
 ¡Se terminaron los efectos de Zona Mágica!
-The effects of Magic Zone are over!
+The effects of Wonder Room are over!
 ¡Los efectos de Chapoteolodo se acabaron!
-The effects of Splasholodo are over!
+The effects of Mud Sport are over!
 ¡Los efectos de Hidrochorro se acabaron!
-Hydrojet's effects are over!
+Water Sport's effects are over!
 ¡La corriente eléctrica desapareció del campo!
-The electric current disappeared from the field!
+The electric current dissipated from the field!
 ¡La hierba desapareció del campo!
-The grass disappeared from the field!
+The grass dissipated from the field!
 ¡La niebla desapareció del campo!
 The fog disappeared from the field!
 ¡La sensación extraña desapareció del campo!
 The strange feeling disappeared from the field!
 ¡{1} se despertó por el Alboroto!
-{1} woke up because of the Riot!
+{1} woke up because of the Uproar!
 {1} se tranquilizó.
 {1} calmed down.
 ¡{1} está montando un Alboroto!
-{1} is making a fuss!
+{1} is making an Uproar!
 ¡{1} sufre por el mal sueño!
-{1} suffers from bad sleep!
+{1} suffers from nightmares!
 ¡{1} ha cosechado una {2}!
 {1} has reaped a {2}!
 ¡{1} ha sido gravemente envenenado por la {2}!
-{1} has been severely poisoned by {2}!
+{1} has been badly poisoned by {2}!
 ¡{1} ha sido quemado por la {2}!
 {1} has been burned by {2}!
 ¡{1} ha sido dañado por la {2}!
@@ -39535,25 +39535,25 @@ The strange feeling disappeared from the field!
 ¡{1} ha derrotado a {2} y {3}!
 {1} has defeated {2} and {3}!
 ¡{1} ha derrotado a<<n>>{2}!
-¡{1} ha derrotado a<<r>><<n>>{2}!
+¡{1} has defeated a<<r>><<n>>{2}!
 ¡{1} ha obtenido ${2}<<n>>por la victoria!
-¡{1} ha obtenido ${2}<<r>><<n>>por la victoria!
+¡{1} obtained ${2}<<r>><<n>>for winning!
 Esto no llevará a ningún lado...
 This won't get you anywhere...
 ¡Todos los Pokémon enemigos fueron derrotados!
-All enemy Pokémon were defeated!
+All opposing Pokémon were defeated!
 ¡{1} ha recogido ${2}!
-{1} has collected ${2}!
+{1} collected ${2}!
 ¡{1} no tiene más Pokémon que puedan pelear!
-{1} doesn't have any more Pokémon that can fight!
+{1} has no more usable Pokémon!
 ¡{1} ha perdido contra {2} y {3}!
 {1} has lost to {2} and {3}!
 ¡{1} ha perdido contra<<n>>{2}!
-¡{1} ha perdido contra<<r>><<n>>{2}!
+¡{1} has lost against<<r>><<n>>{2}!
 {1} ha entregado ${2} al ganador...
-{1} has awarded ${2} to the winner...
+{1} gave ${2} to the winner...
 {1} entró en pánico y dejó caer<<n>>${2}...
-{1} entró en pánico y dejó caer<<r>><<n>>${2}...
+{1} panicked and dropped <<r>><<n>>${2}...
 ¡{1} se desmayó!
 {1} fainted!
 Graphics/Pictures/battleCommandButtons_EN
@@ -39611,9 +39611,9 @@ Bait
 Piedra
 Stone
 Huir
-Flee
+Run
 Luchar
-Struggle
+Fight
 Mochila
 Backpack
 Pokémon
@@ -39623,9 +39623,9 @@ Encourage
 Aguanta #{$game_variables[47]} turnos
 Hold
 Salir
-Go out
+Exit
 Usar
-Wear
+Use
 {1} está seleccionado.
 {1} is selected.
 ¿En qué Pokémon usarlo?
@@ -39647,13 +39647,13 @@ What to do with {1}?
 Poco eficaz...
 Not very effective...
 ¡Muy eficaz!
-Very effective!
+Super effective!
 PS Máx.<r>+{1}<<n>>Ataque<r>+{2}<<n>>Defensa<r>+{3}<<n>>At. Esp<r>+{4}<<n>>Def. Esp<r>+{5}<<n>>Velocidad<r>+{6}
 PS Máx.<r>+{1}<<r>><<n>>Ataque<r>+{2}<<r>><<n>>Defensa<r>+{3}<<r>><<n>>At. Esp<r>+{4}<<r>><<n>>Def. Esp<r>+{5}<<r>><<n>>Velocidad<r>+{6}
 PS Máx.<r>{1}<<n>>Ataque<r>{2}<<n>>Defensa<r>{3}<<n>>At. Esp<r>{4}<<n>>Def. Esp<r>{5}<<n>>Velocidad<r>{6}
 PS Máx.<r>{1}<<r>><<n>>Ataque<r>{2}<<r>><<n>>Defensa<r>{3}<<r>><<n>>At. Esp<r>{4}<<r>><<n>>Def. Esp<r>{5}<<r>><<n>>Velocidad<r>{6}
 el {1} salvaje
-the {1} savage
+the wild {1}
 ¡Apareció un {1} salvaje!
 A wild {1} appeared!
 ¡Las cajas están llenas! ¡Ya no puedes capturar más Pokémon!
@@ -40588,7 +40588,7 @@ Go out
 (Mmm...)
 (Hmm...)
 ¿Debería capturarlo?
-Should I capture him?
+Should I catch him?
 Mejor dejarlo tranquilo
 Better leave it alone
 ???
@@ -41089,9 +41089,9 @@ Balls: {1}
 Pasos: {1}/{2}<<n>>Balls: {3}
 Steps: {1}/{2}<<n>>Balls: {3}
 Capturado: {1}<<n>>Nivel: {2}<<n>>Balls: {3}
-Captured: {1}<<n>>Level: {2}<<n>>Balls: {3}
+Caught: {1}<<n>>Level: {2}<<n>>Balls: {3}
 Capturado: Ninguno<<n>>Balls: {1}
-Captured: None<<n>>Balls: {1}
+Caught: None<<n>>Balls: {1}
 Guardar
 Keep
 Opciones
@@ -42649,13 +42649,13 @@ Very few contestants hunting bugs.
 Compet Balls: {1}
 Compet Balls: {1}
 Ya has capturado un {1}.
-You have already captured a {1}.
+You have already caught a {1}.
 POKéMON ANTERIOR:<<n>>{1} Nv{2} MáxPS: {3}<<n>>ESTE POKÉMON:<<n>>{4} Nv{5} MáxPS: {6}
 POKéMON ANTERIOR:<<n>> {1} Nv{2} MáxPS: {3}<<n>>ESTE POKÉMON:<<n>> {4} Nv{5} MáxPS: {6}
 ¿Cambiar Pokémon?
 Change Pokémon?
 ¡{1} capturado!
-{1} captured!
+{1} caught!
 El número de rondas es 0 o menos.
 The number of rounds is 0 or less.
 Elegir una batalla.
@@ -43447,7 +43447,7 @@ Now all the eggs on the team have just one step left to hatch.
 No se definieron Pokémon errantes.
 No wandering Pokémon were defined.
 {1} (Nv.{2}) capturado.
-{1} (Lv.{2}) captured.
+{1} (Lv.{2}) caught.
 {1} (Nv.{2}) debilitado.
 {1} (Lv.{2}) weakened.
 {1} (Nv.{2}) está vagando por el mapa {3} ({4}){5}
@@ -44095,7 +44095,7 @@ Compiling messages
 \tg[Lucius]No sé de qué me habla. Ya estará contento con su Rowlet, de todas formas...
 \tg[Lucius]I don't know what you're talking about. He'll be happy with his Rowlet anyway...
 ¿Usar una Poké Ball para capturar este Pokémon?
-Use a Poké Ball to capture this Pokémon?
+Use a Poké Ball to catch this Pokémon?
 ¡No tienes una Poké Ball! El Pokémon se marchará.
 You don't have a Poké Ball! The Pokémon will leave.
 ¿Seguro? El Pokémon se irá.
@@ -44155,15 +44155,15 @@ Change Pokémon?
 \tg[Lucius]Le recomiendo capturar ese Pokémon en este momento, Mr. Kyle.
 \tg[Lucius]I recommend you catch that Pokémon right now, Mr. Kyle.
 \tg[Kyle]¡Athan, aprovecha ahora para capturar ese Pokémon!
-\tg[Kyle]Athan, take advantage now to capture that Pokémon!
+\tg[Kyle]Athan, use this chance to catch that Pokémon!
 \tg[Phione]¡Gah! Anthony, ¡tira una Poké Ball ahora! ¡Es el momento!
 \tg[Phione]Gah! Anthony, throw a Poké Ball now! It's time!
 \tg[Lucius]Le recomiendo capturar ese Pokémon en este momento, Mr. Anthony.
-\tg[Lucius]I recommend you capture that Pokémon right now, Mr. Anthony.
+\tg[Lucius]I suggest you catch that Pokémon right now, Mr. Anthony.
 \tg[Ártica]Ese Pokémon parece querer unirse a tus filas, Anthony.
 \tg[Arctic]That Pokémon seems to want to join your ranks, Anthony.
 ¿Capturar al #{newpk.name} rival? Perderás una Poké Ball.
-Capture the
+Catch the
 Has entregado #{itemname}.
 You have delivered
 \me[{1}]You found some \c[1]{2}\c[0]!\wtnp[30]
@@ -44353,7 +44353,7 @@ You cannot select this option on mobile devices. This message is here to avoid a
 \tg[Minos]¡Un Bellsprout! ¡Listo para balancearse en la brisa y atrapar insectos!
 \tg[Minos]A Bellsprout! Ready to swing in the breeze and catch bugs!
 \tg[Minos]¡Un Weepinbell! ¡Mantén la distancia, a menos que quieras ser capturado!
-\tg[Minos]A Weepinbell! Keep your distance, unless you want to be captured!
+\tg[Minos]A Weepinbell! Keep your distance, unless you want to get caught!
 \tg[Minos]¡Un Victreebel! ¡Preparado para devorar a cualquier intruso descuidado!
 \tg[Minos]A Victreebel! Ready to devour any careless intruder!
 \tg[Minos]¡Un Tentacool! ¡Listo para hacer olas en el agua y en tu día!
@@ -46699,15 +46699,15 @@ Win a match with only Kakuna or Metapod on the team
 La cacería comienza
 The hunt begins
 Captura #{POKECATCH1} Pokémon
-Capture
+Catch
 Convierte Pokémon en aliados
 Turn Pokémon into allies
 Captura #{POKECATCH2} Pokémon
-Capture
+Catch
 Hay que capturarlos a todos
-We have to capture them all
+Gotta catch 'em all
 Captura #{POKECATCH3} Pokémon
-Capture
+Catch
 Juego equivocado
 Wrong game
 Los chistes en la papeleras están en el otro fangame
@@ -46793,7 +46793,7 @@ Nothing
 (¿La ubicación de qué Pokémon debería consultar...?)
 (The location of which Pokémon should I consult...?)
 En ocasiones, los Pokémon salvajes llamarán a otros para recibir ayuda. Un Pokémon que se encuentre Dormido, Paralizado, Quemado, o Envenenado no llamará a otros Pokémon. Existe un límite de tres Pokémon a los que pueden pedir ayuda. Los Pokémon llamados no pueden ser variocolor, y solo podrá capturarse el Pokémon que inició la cadena de llamadas.
-Sometimes, wild Pokémon will call out to others for help. A Pokémon that is Asleep, Paralyzed, Burned, or Poisoned will not call out to other Pokémon. There is a limit of three Pokémon that they can call for help. Called Pokémon will not call out to other Pokémon. They can be shiny, and only the Pokémon that started the chain of calls can be captured.
+Sometimes, wild Pokémon will call out to others for help. A Pokémon that is Asleep, Paralyzed, Burned, or Poisoned will not call out to other Pokémon. There is a limit of three Pokémon that they can call for help. Called Pokémon will not call out to other Pokémon. Called Pokémon can't be shiny, and only the Pokémon that started the chain of calls can be cauhgt.
 Si un Pokémon se encuentra en estado alarmado, recibirá la mitad de daño. El efecto del estado se disipará si recibe un movimiento poco efectivo, y durante el próximo recibirá un 10% más de daño. Contra un Pokémon de Tipo Normal es necesario utilizar un movimiento de Tipo Normal para que vuelva a la normalidad.
 If a Pokémon is in an alarmed state, it will receive half the damage. The effect of the state will dissipate if it receives an ineffective move, and during the next one it will receive 10% more damage. Against a Normal Type Pokémon it is necessary to use a Normal Type movement to return it to normal.
 C / Espacio => Continuar
@@ -46825,7 +46825,7 @@ Coins obtained:
 Bayas encontradas: #{$Trainer.berryCountLogro}
 Found berries:
 Pokémon capturados: #{$Trainer.catchCountLogro}
-Captured Pokémon:
+Caught Pokémon:
 Logros obtenidos: #{logrosCount}
 Achievements obtained:
 Modo de juego preferido:
@@ -47259,7 +47259,7 @@ I'm just here to reactivate the events...
 \tg[Anthony]No parece tener dueño...
 \tg[Anthony]He doesn't seem to have an owner...
 \tg[Anthony]Veo que no te dejarás capturar sin pelear, ¿eh?
-\tg[Anthony]I see you won't let yourself be captured without a fight, eh?
+\tg[Anthony]I see you won't let yourself get caught without a fight, eh?
 \tg[Anthony](Es una peligrosa nube venenosa, pero hay algo en su interior.)
 \tg[Anthony](It's a dangerous poison cloud, but there's something inside it.)
 ¡Los Pokémon del equipo han sido envenenados!
