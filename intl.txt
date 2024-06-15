@@ -88,7 +88,7 @@ Congratulations! You can now access the Extra Chapter accessible from the title 
 \tg[Anthony]No entiendo, ¿para qué quieres entrar dentro? ¿No te valía con ver mi casa?
 \tg[Anthony]I don't understand, why do you want to go inside? Wouldn't it be enough for you to see my house?
 \tg[Lucius]¿Acaso no tiene curiosidad por saber qué objetos guarda la gente en el interior de sus hogares?
-\tg[Lucius]Aren't you curious to know what objects people keep inside their homes?
+\tg[Lucius]Aren't you curious to know what items people keep inside their homes?
 \tg[Anthony]No, porque no es de mi incumbencia. Ni tampoco la tuya.
 \tg[Anthony]No, because it is none of my business. Nor is it yours.
 \tg[Phione]Phione sabe de algunos Pokémon que tratan de construir casas parecidas a los de los humanos.
@@ -102,7 +102,7 @@ Congratulations! You can now access the Extra Chapter accessible from the title 
 \tg[Lucius]Efectivamente. Por eso la libertad de entrar y salir de ellas cuanto gustemos.
 \tg[Lucius]Indeed. Hence the freedom to enter and leave them as we please.
 \tg[Lucius]¡Oh! ¿Y qué ocurriría si alguna de estas personas estuviera en posesión de algún objeto prohibido?
-\tg[Lucius]Oh! And what would happen if any of these people were in possession of some forbidden object?
+\tg[Lucius]Oh! And what would happen if any of these people were in possession of some forbidden item?
 \tg[Lucius]¡Deben ser investigados!
 \tg[Lucius]They must be investigated!
 \tg[Anthony]Buen intento, pero no cuela.
@@ -294,7 +294,7 @@ Congratulations! You can now access the Extra Chapter accessible from the title 
 Escoge la dificultad con la que quieres empezar el juego.
 Choose the difficulty with which you want to start the game.
 ¿Quieres aplicar alguna restricción?
-Do you want to apply any restrictions?
+Do you want to apply any limitations?
 ¡Felicidades! Ahora puedes acceder al Modo mazmorra accesible desde la pantalla de título.
 Congratulations! You can now access Dungeon Mode accessible from the title screen.
 ¿Quieres transferir tus Pokémon al modo historia? Si lo haces, esta partida se borrará y tendrás que empezar el Capítulo Extra de nuevo.
@@ -302,7 +302,7 @@ Do you want to transfer your Pokémon to story mode? If you do, this game will b
 Los Pokémon han sido transferidos. Accede a las Cajas desde el Modo Historia para conseguirlos.
 The Pokémon have been transferred. Access the Boxes from Story Mode to get them.
 Sí
-Yeah
+Yes
 No
 No
 Normal
@@ -1023,15 +1023,15 @@ A few hours later...
 \tg[Anthony](¿Seguirán por la playa?)
 \tg[Anthony](Will you continue along the beach?)
 \tg[Anthony]Parece que el mar ha vuelto a la normalidad... Dichosas tormentas, ¡nunca pego ojo cuando hay una!
-\tg[Anthony]It seems that the sea has returned to normal... Happy storms, I never sleep a wink when there is one!
+\tg[Anthony]It seems the sea has returned to normal... Those wretched storms, I never get a wink of sleep when they're around!
 \tg[Anthony]¡Buenos días, viejo Wal! ¿Has vuelto a pasar la noche fuera? ¡Ánimo, que nos espera un día más de trabajo en el huerto!
-\tg[Anthony]Good morning, old Wal! Have you spent the night out again? Cheer up, another day of work in the garden awaits us!
+\tg[Anthony]Good morning, old Wal! Have you spent the night out again? You'd better be ready, another day of work in the garden awaits us!
 \tg[Anthony]¿Qué te pasa? ¿No cenaste ayer?
 \tg[Anthony]What's wrong with you? Didn't you have dinner yesterday?
 \tg[Anthony]¡Oye! Si quieres Krabby para comer, irás tú tras ellos, ¿eh?
-\tg[Anthony]Hey! If you want Krabby to eat, you'll go after them, huh?
+\tg[Anthony]Hey! If you want Krabby to eat, you'll be the one chasing them!
 \tg[Anthony](Parece que quiere que lo siga... Con lo poco que me gusta acercarme a la orilla.)
-\tg[Anthony](It seems like he wants me to follow him... As I don't like going near the shore.)
+\tg[Anthony](It seems it wants me to follow... Despite how little I enjoy getting close to the shore.)
 \tg[Anthony]Buen chico.
 \tg[Anthony]Good boy.
 [Map9]
@@ -1106,9 +1106,9 @@ A few hours later...
 \tg[???]<b>Lucius</b>...\| ¿Cómo has podido?\wtnp[48]
 \tg[???]<b>Lucius</b>...\| How could you?\wtnp[48]
 \tg[???]Estás\| muy equivocado.\wtnp[48]
-\tg[???]You are\| very wrong.\wtnp[48]
+\tg[???]You are\| quite mistaken.\wtnp[48]
 \tg[???]No sabes\| lo que has hecho...\wtnp[48]
-\tg[???]You don't know\| what you've done...\wtnp[48]
+\tg[???]You are unaware of\| the consequences of your actions...\wtnp[48]
 [Map22]
 [Map23]
 \tg[???]¿Vas a acabar conmigo de una vez por todas?
@@ -1116,14 +1116,14 @@ A few hours later...
 \tg[???](...)\|(...)\|(...)
 \tg[???](...)\|(...)\|(...)
 \tg[???]¿De veras no tienes nada que decir? Ja.
-\tg[???]Do you really have nothing to say? Ha.
+\tg[???]Speechless, now? Hah.
 [Map24]
 No permitiré\| que el Ciclo se detenga.
-I will not allow\| the Cycle to stop.
+I shall not allow\| the Cycle to disappear, ever.
 (...)\|(...)\|(...)
 (...)\|(...)\|(...)
 Creía que podía confiar en ti,\| ¿sabes?
-I thought I could trust you, you know?
+I believed I could place my trust in you, you know?
 Pero aparentemente\|\c[2] no eres más que otro traidor.
 But apparently\|\c[2] you are just another traitor.
 [Map25]
@@ -1804,7 +1804,7 @@ Buy something
 No quiero nada
 I want nothing
 Sí
-Yeah
+Yes
 No
 No
 [Map28]
@@ -2029,7 +2029,7 @@ No
 \tg[Anthony](¿Se habrá ido solo a la mina? Debería investigar antes los alrededores, por si acaso.)
 \tg[Anthony](Could he have gone to the mine alone? He should investigate the surroundings first, just in case.)
 Sí
-Yeah
+Yes
 No
 No
 [Map31]
@@ -4189,7 +4189,7 @@ All ready
 Me he dejado algo
 I left something
 Sí
-Yeah
+Yes
 No
 No
 [Map83]
@@ -5816,7 +5816,7 @@ I'll give you one last chance.
 No pienses que lo tendrás fácil.
 Don't think you'll have it easy.
 Sí
-Yeah
+Yes
 No
 No
 [Map152]
@@ -7050,7 +7050,7 @@ Attention: You will not be able to interact with the Prana bubbles while Lucius 
 Sin embargo, la probabilidad de poder capturar un Pokémon tras derrotarlo en combate será incrementada.
 However, the probability of being able to catch a Pokémon after defeating it in battle will be increased.
 Podrás obtenerlos aun si tienes alguna restricción activa.
-You can obtain them even if you have any active restrictions.
+You can obtain them even if you have any active limitations.
 [Map192]
 [Map193]
 [Map194]
@@ -7615,7 +7615,7 @@ Meanwhile...
 \tg[Anthony]Dos cosas, de hecho. La primera es que no hables y comas a la vez.
 \tg[Anthony]Two things, actually. The first is that you don't talk and eat at the same time.
 \tg[Anthony]Y la otra... Lucius dice que necesita el Rosario para transformarse en su Forma Pokémon, pero no veo que tú lo hagas con ningún objeto. ¿Por qué?
-\tg[Anthony]And the other... Lucius says he needs the Rosary to transform into his Pokémon Form, but I don't see you doing it with any object. Why?
+\tg[Anthony]And the other... Lucius says he needs the Rosary to transform into his Pokémon Form, but I don't see you doing it with any item. Why?
 \tg[Moira]Buuu...
 \tg[Moira]Boooo...
 \tg[Anthony]¿"Buuu"?
@@ -8078,7 +8078,7 @@ With the flow restored, the being clings to a reminiscence of the past. That's r
 \tg[Anthony]No podemos ir más lejos. Busquemos por aquí.
 \tg[Anthony]We can't go any further. Let's look around here.
 \tg[Phione]¡Phione ve algunos objetos brillar! ¡Deben ser perlas!
-\tg[Phione]Phione sees some objects shining! They must be pearls!
+\tg[Phione]Phione sees some items shining! They must be pearls!
 \tg[Lucius]Así es. ¡Recojamos todas las que encontremos!
 \tg[Lucius]That's right. Let's collect as many as we can find!
 \tg[Anthony](Esta piedra tiene un color raro y estrambótico. Supongo que será una perla.)
@@ -8106,7 +8106,7 @@ With the flow restored, the being clings to a reminiscence of the past. That's r
 \tg[Anthony]¿Una qué?
 \tg[Anthony]A what?
 \tg[Phione]Un objeto que revela la ubicación de las escaleras, fí.
-\tg[Phione]An object that reveals the location of the stairs, fi.
+\tg[Phione]An item that reveals the location of the stairs, fi.
 \tg[Anthony]¿E-escaleras? ¿Qué dices?
 \tg[Anthony]S-stairs? What are you saying?
 \tg[Lucius]¡Y esto otro ni brilla ni es redondo! ¡Es una \c[2]Piedra Dura</c>! ¿¡Cómo ha podido confundirla con una perla!?
@@ -8114,7 +8114,7 @@ With the flow restored, the being clings to a reminiscence of the past. That's r
 \tg[Anthony]¡Que no lo sé! ¡A mí me pareció...!
 \tg[Anthony]I don't know! It seemed to me...!
 \tg[Phione]Parece que Anthony tiene problemitas a la hora de distinguir objetos...
-\tg[Phione]It seems that Anthony has some problems when it comes to distinguishing objects...
+\tg[Phione]It seems that Anthony has some problems when it comes to distinguishing items...
 \tg[Lucius]Será por la edad. Ya sabes, los humanos...
 \tg[Lucius]It will be because of age. You know, humans...
 \tg[Anthony]¿¡Qué dices tú de mi edad!?
@@ -9720,7 +9720,7 @@ Moira: H-how...?
 \tg[Lucius](...)\| ¿Qué opina de las Poké Balls, Tercera?
 \tg[Lucius](...)\| What do you think of the Poké Balls, Third?
 \tg[Moira]¿Te refieres a esos objetos que usan los Portadores? Pues no sé mucho sobre ellas... ¿Adónde quieres llegar?
-\tg[Moira]Do you mean those objects that the Bearers use? Well, I don't know much about them... Where are you going?
+\tg[Moira]Do you mean those items that the Bearers use? Well, I don't know much about them... Where are you going?
 \tg[Lucius]Como sugerencia... Mientras trato de solucionar el problema del Praná, debería utilizarlas Poké Balls para traer algunos Pokémon que puedan proveer alimentos a la isla.
 \tg[Lucius]As a suggestion... While I'm trying to solve the Prana problem, I should use the Poké Balls to bring some Pokémon that can provide food to the island.
 \tg[Lucius]Gracias a Mr. Anthony he aprendido que estos artefactos facilitan las relaciones entre humanos y Pokémon. Aun fuera de su hábitat y si son cuidados debidamente, le aseguro que muchos de ellos como Chansey o Miltank estarían dispuestos a echarles un <i>sable</i>.
@@ -9738,7 +9738,7 @@ Moira: H-how...?
 \tg[Moira]Entiendo... Solo una cosa, Lucius.
 \tg[Moira]I understand... Just one thing, Lucius.
 \tg[Moira]Si tan grave era la situación, ¿por qué no me pediste que usase mis poderes con cualquier otro objeto para el collar?
-\tg[Moira]If the situation was so serious, why didn't you ask me to use my powers with any other object for the necklace?
+\tg[Moira]If the situation was so serious, why didn't you ask me to use my powers with any other item for the necklace?
 \tg[Moira]No tenía que ser específicamente un trozo de Obsidianita...
 \tg[Moira]It didn't specifically have to be a piece of Obsidianite...
 \tg[Lucius]¿Cómo\| ha dicho?
@@ -10104,7 +10104,7 @@ Although, the truth is...
 \tg[Kyle]¡Ni hablar! ¡Si es raro, quiero probar a venderlo!
 \tg[Kyle]No way! If it's rare, I want to try selling it!
 \tg[Athan]¿¡En serio eso es lo primero que se te ocurre!? ¡Este objeto posee poderes interdimensionales! ¡Podríamos perdernos en una dimensión extraña y no darnos ni cuenta!
-\tg[Athan]Is that seriously the first thing that comes to mind!? This object has interdimensional powers! We could get lost in a strange dimension and not even realize it!
+\tg[Athan]Is that seriously the first thing that comes to mind!? This item has interdimensional powers! We could get lost in a strange dimension and not even realize it!
 \tg[Kyle]Ugh...
 \tg[Kyle]Ugh...
 \tg[Athan]Si te encuentras mal, vuelve a tu casa a descansar. Yo me quedaré por aquí un rato más.
@@ -16335,7 +16335,7 @@ Agente
 Agent
 819
 Abazón
-Pouch
+Satchel
 820
 Avaricia
 Avarice
@@ -17197,7 +17197,7 @@ Lleva en la cola un Shellder enganchado por los dientes. Como Slowbro no puede p
 It carries a Shellder on its tail hooked by its teeth. Since Slowbro cannot fish with its tail, it reluctantly enters the water in search of its prey.
 81
 Las unidades de las extremidades son imanes de largo alcance. Generan magnetismo suficiente para atraer objetos de hierro que estén a 100 m de distancia.
-The limb units are long-range magnets. They generate enough magnetism to attract iron objects that are 100 m away.
+The limb units are long-range magnets. They generate enough magnetism to attract iron items that are 100 m away.
 82
 Son tres Magnemite que se atraen entre sí. Genera ondas de radio de gran alcance que provocan que la temperatura suba 2 grados centígrados en un radio de 1 km.
 They are three Magnemite that attract each other. It generates powerful radio waves that cause the temperature to rise 2 degrees Celsius within a 1 km radius.
@@ -18169,7 +18169,7 @@ Sus garras emiten electricidad que puede debilitar a sus rivales. Viven en grupo
 Their claws emit electricity that can weaken their rivals. They live in small groups.
 405
 Sus ojos pueden ver a través de todo. Localiza a las presas detrás de objetos y las captura.
-Its eyes can see through everything. It locates prey behind objects and captures them.
+Its eyes can see through everything. It locates prey behind items and captures them.
 406
 En invierno cierra su capullo para protegerse del frío. En primavera el capullo se abre y esparce polen.
 In winter it closes its cocoon to protect itself from the cold. In spring the cocoon opens and spreads pollen.
@@ -18739,7 +18739,7 @@ Vive flotando a la deriva en mar abierto. Siempre que encuentra un Pokémon heri
 It lives adrift in the open sea. Whenever it finds an injured Pokémon, it hugs it and takes it to shore.
 595
 Se agarra a Pokémon de gran tamaño, absorbe su electricidad estática y la guarda en una bolsa interna.
-It grabs onto large Pokémon, absorbs their static electricity, and stores it in an internal pouch.
+It grabs onto large Pokémon, absorbs their static electricity, and stores it in an internal satchel.
 596
 Pone trampas con hilos electrificados. De este modo, electrocuta a sus enemigos y los inmoviliza por completo.
 He sets traps with electrified wires. In this way, he electrocutes his enemies and completely immobilizes them.
@@ -19420,7 +19420,7 @@ De naturaleza valiente, planta cara a cualquier rival, por muy fuerte que sea. L
 With a brave nature, he stands up to any rival, no matter how strong he is. The counterattacks he receives serve to strengthen him.
 822
 Su inteligencia le permite servirse de objetos. Por ejemplo, recoge y lanza piedras con las patas, o utiliza cuerdas para atrapar a su oponente.
-Its intelligence allows it to use objects. For example, it picks up and throws stones with its paws, or uses ropes to trap its opponent.
+Its intelligence allows it to use items. For example, it picks up and throws stones with its paws, or uses ropes to trap its opponent.
 823
 No tiene rival en los cielos. El acero negro y lustroso de su cuerpo intimida a cualquier adversario.
 He has no rival in the skies. The shiny black steel of his body intimidates any adversary.
@@ -19717,7 +19717,7 @@ Cuando decide luchar sin cuartel, se alza con su tercer par de patas y entra en 
 When it decides to fight without quarter, it rises up with its third pair of legs and goes into assault mode. It finishes off the rival in the blink of an eye.
 921
 Como las bolsas de sus mejillas están poco desarrolladas, genera electricidad frotándolas con las almohadillas de sus patas delanteras.
-As its cheek pouches are underdeveloped, it generates electricity by rubbing them with the pads of its front paws.
+As its cheek satcheles are underdeveloped, it generates electricity by rubbing them with the pads of its front paws.
 922
 Cuando su manada se ve amenazada, atacan a la vanguardia usando un arte marcial caracterizado por el empleo de descargas eléctricas.
 When their pack is threatened, they attack the vanguard using a martial art characterized by the use of electric shocks.
@@ -19936,7 +19936,7 @@ Se asemeja a un Pokémon que apareció en una revista esotérica descrito como "
 It resembles a Pokémon that appeared in an esoteric magazine described as "the fruit of a romance between a Hydreigon and a robot."
 994
 Se asemeja a un extraño objeto descrito en una revista esotérica como "un ovni enviado con el objetivo de espiar a la raza humana".
-It resembles a strange object described in an esoteric magazine as "a UFO sent with the aim of spying on the human race."
+It resembles a strange item described in an esoteric magazine as "a UFO sent with the aim of spying on the human race."
 995
 Guarda similitudes con el supuesto aspecto que, según cierta revista de dudosa veracidad, tendrá Tyranitar dentro de mil millones de años.
 It bears similarities to the supposed appearance that, according to a certain magazine of dubious veracity, Tyranitar will have in a billion years.
@@ -20023,7 +20023,7 @@ Recuerda a un Pokémon descrito en cierta revista de dudosa veracidad como "un T
 Remember a Pokémon described in a certain magazine of dubious veracity as "a Terrakion modified by an evil organization."
 1023
 Se asemeja a un extraño objeto descrito en una revista esotérica como "un arma de tecnología punta con forma de Cobalion".
-It resembles a strange object described in an esoteric magazine as "a high-tech weapon shaped like a Cobalion."
+It resembles a strange item described in an esoteric magazine as "a high-tech weapon shaped like a Cobalion."
 1024
 Se vale de su capacidad para transformar la energía en duros cristales para protegerse. Este Pokémon dio origen a la teracristalización.
 It uses its ability to transform energy into hard crystals to protect itself. This Pokémon gave rise to teracrystallization.
@@ -23068,7 +23068,7 @@ Hace el doble de daño al objetivo que pide el relevo.
 Does double damage to the target that requests relief.
 34
 Ataca y le quita al objetivo el objeto que lleve. Si el agresor lleva un objeto, no robará el del objetivo.
-Attack and take the target's object from the target. If the aggressor is carrying an item, he will not steal the target's item.
+Attack and take the target's item from the target. If the aggressor is carrying an item, he will not steal the target's item.
 35
 Impide al objetivo usar el objeto que lleva durante el combate.
 Prevents the target from using the item they are carrying during combat.
@@ -23077,7 +23077,7 @@ Ataque de todo el equipo Pokémon. Cuantos más haya, más veces ataca.
 The entire Pokémon team attacks. The more there are, the more times it attacks.
 37
 Lanza contra el objetivo el objeto que lleva. La fuerza del ataque y su efecto varían según el objeto.
-Throws the object it is carrying at the target. The strength of the attack and its effect vary depending on the object.
+Throws the item it is carrying at the target. The strength of the attack and its effect vary depending on the item.
 38
 La fuerza del ataque aumenta cuanto más se ha fortalecido el rival con cambios de características.
 The strength of the attack increases the more the opponent has been strengthened with changes in characteristics.
@@ -23110,7 +23110,7 @@ Roba el efecto de movimientos de curación o de cambio de características que i
 Steals the effect of healing or stat-changing moves a combatant attempts to use.
 48
 Intercambia con el objetivo los objetos que llevan tan rápido que es imposible verlo a simple vista.
-It exchanges the objects they are carrying with the target so quickly that it is impossible to see it with the naked eye.
+It exchanges the items they are carrying with the target so quickly that it is impossible to see it with the naked eye.
 49
 Enfurece al objetivo para que solo use movimientos de ataque durante tres turnos.
 Enrage the target so that they only use attack moves for three turns.
@@ -23461,7 +23461,7 @@ Golpea al objetivo con unas grandes alas.
 Hit the target with large wings.
 165
 Golpea ágilmente. Si el usuario no porta ningún objeto, el objetivo resulta seriamente dañado.
-Strike agilely. If the user is not carrying any object, the target is seriously damaged.
+Strike agilely. If the user is not carrying any item, the target is seriously damaged.
 166
 Viento cortante que azota. Suele ser un golpe crítico.
 Cutting wind that whips. It is usually a critical hit.
@@ -23854,7 +23854,7 @@ Tremendo pisotón que puede hacer retroceder al objetivo.
 Tremendous stomp that can make the target retreat.
 296
 Se acerca con ternura al objetivo, pero le ataca pudiendo robar el objeto que lleve.
-He approaches the target with tenderness, but attacks him and may steal the object he is carrying.
+He approaches the target with tenderness, but attacks him and may steal the item he is carrying.
 297
 Un canto que ataca al objetivo. Cuantos más Pokémon lo usan, más aumenta de potencia.
 A chant that attacks the target. The more Pokémon that use it, the more powerful it increases.
@@ -24013,7 +24013,7 @@ Reduce la mitad de los PS máximos para mejorar al máximo el Ataque.
 Reduces maximum HP by half to maximize Attack.
 349
 Entrega el objeto que lleva al objetivo en caso de que este no tenga ninguno.
-Deliver the object it carries to the target in case the target does not have any.
+Deliver the item it carries to the target in case the target does not have any.
 350
 Le corta el paso al objetivo para que no pueda escapar.
 Cuts off the target so he can't escape.
@@ -24148,7 +24148,7 @@ Restaura hasta la mitad de los PS máximos.
 Restores up to half of maximum HP.
 394
 Recicla y así recupera el objeto equipado de un solo uso que ya ha sido empleado en el combate.
-Recycle and thus recover the single-use equipped object that has already been used in combat.
+Recycle and thus recover the single-use equipped item that has already been used in combat.
 395
 Cambia el tipo del Pokémon al mismo tipo que el del objetivo.
 Change the type of the Pokémon to the same type as the target.
@@ -25162,7 +25162,7 @@ El usuario dedica el primer turno a aumentar su Ataque Especial acumulando energ
 The user spends the first turn increasing his Special Attack by accumulating cosmic energy and launches his offensive against the target in the second.
 732
 El usuario ataca utilizando el objeto que lleva el rival. Si no tiene ninguno equipado, el movimiento falla.
-The user attacks using the object the opponent is carrying. If they do not have one equipped, the move fails.
+The user attacks using the item the opponent is carrying. If they do not have one equipped, the move fails.
 733
 Lanza escamas al objetivo de dos a cinco veces seguidas. Aumenta la Velocidad del usuario pero reduce su Defensa.
 Throws scales at the target two to five times in a row. Increases the user's Speed ​​but reduces their Defense.
@@ -27026,7 +27026,7 @@ Supercaña
 Super Rod
 507
 Buscaobjetos
-Object Finder
+item Finder
 508
 Zahorí
 Dowsing Machine
@@ -29133,10 +29133,10 @@ Habilitadores
 Enablers
 495
 Activaobjetos
-Activate objects
+Activate items
 496
 Tiraobjetos
-Object thrower
+item thrower
 497
 Flautas Azules
 Blue Flutes
@@ -29169,7 +29169,7 @@ Supercañas
 Supercanes
 507
 Buscaobjetos
-Object Finder
+item Finder
 508
 Zahoríes
 Dowsers
@@ -29451,7 +29451,7 @@ Servicios Raros
 Rare Services
 601
 Mochilas Escape
-Escape Backpacks
+Escape satchel
 602
 Seguros Fallo
 Failure Insurance
@@ -30793,7 +30793,7 @@ Si el objetivo es del sexo opuesto, se enamorará y bajará la posibilidad de qu
 If the target is of the opposite sex, he will fall in love and the chance of attacking will decrease.
 333
 Ataca y le quita al objetivo el objeto que lleve. Si el agresor lleva un objeto, no robará el del objetivo.
-Attack and take the target's object from the target. If the aggressor is carrying an item, he will not steal the target's item.
+Attack and take the target's item from the target. If the aggressor is carrying an item, he will not steal the target's item.
 334
 Un veloz ataque a los pies que reduce la Velocidad del objetivo.
 A fast attack to the feet that reduces the target's Speed.
@@ -30823,7 +30823,7 @@ Ataca arrojando agua hirviendo al objetivo. Puede causar quemaduras.
 Attacks by throwing boiling water at the target. May cause burns.
 343
 Lanza contra el objetivo el objeto que lleva. La fuerza del ataque y su efecto varían según el objeto.
-Throws the object it is carrying at the target. The strength of the attack and its effect vary depending on the object.
+Throws the item it is carrying at the target. The strength of the attack and its effect vary depending on the item.
 344
 Lanza un rayo eléctrico contra el objetivo. Puede subir el Ataque Especial de quien lo usa.
 It launches an electric beam at the target. It can raise the user's Special Attack.
@@ -30841,7 +30841,7 @@ Siniestra llama morada que produce quemaduras.
 Sinister purple flame that produces burns.
 349
 Golpea ágilmente. Si el usuario no porta ningún objeto, el objetivo resulta seriamente dañado.
-Strike agilely. If the user is not carrying any object, the target is seriously damaged.
+Strike agilely. If the user is not carrying any item, the target is seriously damaged.
 350
 Impide al objetivo usar el objeto que lleva. Su Entrenador tampoco puede usar objetos sobre él.
 Prevents the target from using the item it is carrying. Its Trainer cannot use items on it either.
@@ -31312,10 +31312,10 @@ Una increíble caña de pescar de alta tecnología. Pesca Pokémon salvajes en t
 An incredible high-tech fishing rod. Catch wild Pokémon in all types of waters.
 507
 Detector de objetos invisibles por ondas sonoras. Emite una señal cuando encuentra un objeto.
-Detector of invisible objects by sound waves. It emits a signal when it finds an object.
+Detector of invisible items by sound waves. It emits a signal when it finds an item.
 508
 Aparato de precisión que reacciona con luz y sonido ante los objetos que no se ven e indica su posición.
-Precision device that reacts with light and sound to objects that cannot be seen and indicates their position.
+Precision device that reacts with light and sound to items that cannot be seen and indicates their position.
 509
 Busca Pokémon que se esconden en la hierba. La batería se recarga mientras caminas.
 Look for Pokémon hiding in the grass. The battery recharges as you walk.
@@ -32444,7 +32444,7 @@ Antibalas
 Bulletproof
 169
 Carrillo
-Cheek Pouch
+Cheek satchel
 170
 Tenacidad
 Competitive
@@ -32931,7 +32931,7 @@ Como le gusta hacer las cosas a su manera, los rivales no logran confundirlo.
 As he likes to do things his way, rivals cannot confuse him.
 21
 Sus ventosas se aferran al suelo, con lo cual anula movimientos y objetos que fuerzan el relevo.
-Its suction cups cling to the ground, thereby canceling movements and objects that force the relay.
+Its suction cups cling to the ground, thereby canceling movements and items that force the relay.
 22
 Al entrar en combate amilana al rival de tal manera que su Ataque disminuye.
 When entering combat it intimidates the opponent in such a way that its Attack decreases.
@@ -33027,7 +33027,7 @@ Evita que el rival le baje el Ataque.
 Prevent the opponent from lowering their Attack.
 53
 El Pokémon puede recoger objetos que el rival haya usado, o bien otros que encuentre en plena aventura.
-The Pokémon can pick up objects that the opponent has used, or others that it finds in the middle of the adventure.
+The Pokémon can pick up items that the opponent has used, or others that it finds in the middle of the adventure.
 54
 Al ejecutar un movimiento, el Pokémon descansará en el turno siguiente.
 When executing a move, the Pokémon will rest in the next turn.
@@ -33225,7 +33225,7 @@ Es posible que el Pokémon encuentre Miel una vez concluido el combate.
 It is possible that the Pokémon will find Honey once the battle is over.
 119
 El Pokémon puede ver el objeto que lleva el rival al entrar en combate.
-The Pokémon can see the object the opponent is carrying when entering combat.
+The Pokémon can see the item the opponent is carrying when entering combat.
 120
 Potencia los movimientos que también dañan al usuario.
 Powers movements that also damage the user.
@@ -33693,7 +33693,7 @@ Si sopla un Viento Afín o lo alcanza un movimiento que usa viento, aumenta su A
 If a Tailwind blows or is hit by a movement that uses wind, its Attack increases. It also does not take damage from the latter.
 275
 Aumenta su Ataque si sufre los efectos de Intimidación. También anula movimientos y objetos que fuercen el cambio de Pokémon.
-Increases its Attack if it suffers the effects of Intimidation. It also nullifies moves and objects that force Pokémon to change.
+Increases its Attack if it suffers the effects of Intimidation. It also nullifies moves and items that force Pokémon to change.
 276
 Potencia los movimientos de tipo Roca.
 Boosts Rock-type moves.
@@ -37337,7 +37337,7 @@ There are no animations to import. Put each animation in a folder within the Ani
 All animations were imported.
 All animations were imported.
 Objetos
-Objects
+Items
 Medicina
 Medicine
 Especial
@@ -37362,6 +37362,8 @@ Pokédex Nacional
 National Pokédex
 <ac>{1:02d}:{2:02d}
 <ac>{1:02d}:{2:02d}
+Tiempo real jugado: #{time}
+Real time played: #{time}
 Se esperaba una identificación de sección al inicio del archivo (línea {1})
 A section id was expected at the beginning of the file (line {1})
 No se pudo encontrar {1}
@@ -37389,7 +37391,7 @@ Bitmap width ({1}) is not a multiple of frame counter ({2}) [Bitmap={3}]
 Mmmm
 MMM
 Sí
-Yeah
+Yes
 Volver al último punto de cura
 Return to the last healing point
 Volver a la pantalla de carga
@@ -39161,11 +39163,11 @@ Has been sent to {1}!
 ¡Pero no tuvo efecto!
 But it had no effect!
 De alguna forma no se pudo devolver el objeto sin usar a la mochila.
-Somehow the unused item could not be returned to the backpack.
+Somehow the unused item could not be returned to the satchel.
 ¡El efecto de Embargo impide usar el objeto en {1}!
 The Embargo prevents the item from being used on {1}!
 Por alguna razón, no se pudo devolver el objeto a la mochila.
-For some reason, the item could not be returned to the backpack.
+For some reason, the item could not be returned to the satchel.
 ¡Es imposible apuntar sin concentrarse!
 It is impossible to aim without focusing!
 Los PS de {1} fueron restaurados.
@@ -39615,7 +39617,7 @@ Run
 Luchar
 Fight
 Mochila
-Backpack
+Satchel
 Pokémon
 Pokemon
 Animar
@@ -39775,7 +39777,7 @@ PLAYING...
 ¡{1} ha encontrado un \c[1]{2}\c[0]!\wtnp[20]
 {1} has found a \c[1]{2}\c[0]!\wtnp[20]
 Qué mal... La mochila está llena...
-Too bad... The backpack is full...
+Too bad... The satchel is full...
 \se<<[>>ItemGet<<]>>¡Has obtenido \c<<[>>1<<]>>{1}\c<<[>>0<<]>>!\<<n>>Ésta contiene \c<<[>>1<<]>>{2}\c<<[>>0<<]>>.\wtnp<<[>>30<<]>>
 \se<<[>>ItemGet<<]>>You have obtained \c<<[>>1<<]>>{1}\c<<[>>0<<]>>!\<<n>>This contains \c<<[>>1<<]>>{2}\c<<[>>0<<]>>.\wtnp<<[>>30<<]>>
 \se[ItemGet]¡Has obtenido unos \c[1]{1}\c[0]!\wtnp[30]
@@ -39783,7 +39785,7 @@ Too bad... The backpack is full...
 \se[ItemGet]¡Has obtenido \c[1]{1}\c[0]!\wtnp[30]
 \se[ItemGet]You have obtained \c[1]{1}\c[0]!\wtnp[30]
 Un Objeto Clave de la Mochila puede ser registrado a esta tecla para su uso rápido.
-A Backpack Key Item can be registered to this key for quick use.
+A satchel Key Item can be registered to this key for quick use.
 Hay unas espinas demasiado peligrosas como para pasar.<<1>>
 There are some thorns too dangerous to pass through.<<1>>
 ¿Quieres usar Corte?
@@ -39913,7 +39915,7 @@ The {2} bush has produced {1} berries!<<n>>Do you want to harvest them?
 ¡El arbusto de {1} ha dado una baya!<<n>>¿Quieres cosecharlas?
 The {1} bush has produced a berry!<<n>>Do you want to harvest them?
 Qué mal...<<n>>La mochila está llena.
-Too bad...<<n>>The backpack is full.
+Too bad...<<n>>The satchel is full.
 Has cosechado {1} bayas del arbusto de {2}.\wtnp[30]
 You have harvested {1} berries from the {2} bush.\wtnp[30]
 Has cosechado una baya del arbusto de {1}.\wtnp[30]
@@ -39931,7 +39933,7 @@ Ready! Everyone happy!
 Parece sentarle muy bien a la planta.
 It seems to suit the plant very well.
 Malísimo...<<n>>La Mochila está llena.
-Very bad...<<n>>The Backpack is full.
+Very bad...<<n>>The satchel is full.
 {1} ha metido la cosecha de {2} en el Bolsillo de <icon=bagPocket#{pocket}>\c<<[>>1<<]>>Bayas\c<<[>>0<<]>> de la Mochila.<<1>>
 {1} has put {2}'s harvest in <icon=bagPocket's Pocket
 No hay espacio para depositar un Pokémon
@@ -40020,7 +40022,7 @@ Staying still; it's very risky
 Recibe un objeto valioso, envenena a todos los Pokémon del equipo
 Receive a valuable item, poison all Pokémon on the team
 Salir
-Go out
+Exit
 Mmm...
 Hmm...
 Quizá tenga algo para ti
@@ -40034,7 +40036,7 @@ Lose an item from the bag and choose one of two valuable items of your choice
 Pierde 3 Monedas y consigue un objeto valioso
 Lose 3 Coins and get a valuable item
 Salir
-Go out
+Exit
 (A ver qué tengo...)
 (Let's see what I have...)
 Hoy es tu día de suerte
@@ -40052,7 +40054,7 @@ Give 3 Coins, receive ???
 Da 1 Moneda, recibe ???
 Give 1 Coin, receive ???
 Salir
-Go out
+Exit
 (Lo mejor de Seaking es...)
 (The best thing about Seaking is...)
 Las aletas
@@ -40066,7 +40068,7 @@ Receives ???
 Recibe ???
 Receives ???
 Salir
-Go out
+Exit
 (Veamos...)
 (Let's see...)
 Examinar la calavera de cerca
@@ -40080,7 +40082,7 @@ Receives ???
 Recibe ???
 Receives ???
 Salir
-Go out
+Exit
 (Una historia, dice...)
 (A story, it says...)
 Escuchar una historia larga
@@ -40094,7 +40096,7 @@ Receives ???
 Recibe ???
 Receives ???
 Salir
-Go out
+Exit
 (Me da curiosidad...)
 (I'm curious...)
 Abrir la bolsa
@@ -40104,7 +40106,7 @@ They won't have abandoned her for no reason
 Recibe un objeto valioso, pero...
 You receive a valuable item, but...
 Salir
-Go out
+Exit
 (Mmm...)
 (Hmm...)
 Acercarme a ver qué ocurre
@@ -40114,7 +40116,7 @@ Let him solve his own problems
 Afronta un combate difícil para obtener un objeto, una Escama Corazón y 2 Monedas
 Face a difficult fight to obtain an item, a Heart Scale and 2 Coins
 Salir
-Go out
+Exit
 (Unas Monedas...)
 (Some coins...)
 Dárselas a ver qué ocurre
@@ -40124,7 +40126,7 @@ If it's not safe, I pass
 Pierde 3 Monedas, 50% de ganar un objeto valioso
 Lose 3 Coins, 50% of winning a valuable item
 Salir
-Go out
+Exit
 (Esto...)
 (This...)
 ¡Entra en razón!
@@ -40134,7 +40136,7 @@ I better get away
 Afronta un combate difícil para obtener un objeto, una Escama Corazón y 2 Monedas
 Face a difficult fight to obtain an item, a Heart Scale and 2 Coins
 Salir
-Go out
+Exit
 (Qué majo, el bichete.)
 (How nice, the bichete.)
 Snom guapo, Snom bonito
@@ -40144,7 +40146,7 @@ Now that I look at it closely, it seems suspicious
 Afronta un combate difícil para obtener un objeto, una Escama Corazón y 2 Monedas
 Face a difficult fight to obtain an item, a Heart Scale and 2 Coins
 Salir
-Go out
+Exit
 (Hacía mucho que no pensaba en el amor...)
 (It had been a long time since I thought about love...)
 Dejar que Lucius le aconseje
@@ -40160,7 +40162,7 @@ Receives ???
 Recibe ???
 Receives ???
 Salir
-Go out
+Exit
 (Veamos...)
 (Let's see...)
 Usaré unas Bayas de la bolsa
@@ -40174,7 +40176,7 @@ You lose three Berries and get a valuable item
 Phione no curará tras el próximo combate y consigues un objeto valioso
 Phione will not heal after the next fight and you get a valuable item
 Salir
-Go out
+Exit
 (Una secta... Debería...)
 (A sect...Should...)
 ¡Apuntarme!
@@ -40184,7 +40186,7 @@ Leave, it's very suspicious
 Recibes un Rowlet, pero algo malo podría ocurrir después
 You receive a Rowlet, but something bad could happen later
 Salir
-Go out
+Exit
 (Un Klefki...)
 (A Klefki...)
 Me he dejado las llaves, ¡ya ves!
@@ -40194,7 +40196,7 @@ I am not for games
 Da tres Bayas al Klefki y recibe una Llave
 Give three Berries to the Klefki and receive a Key
 Salir
-Go out
+Exit
 (Alcohol...)
 (Alcohol...)
 Que participe Lucius
@@ -40210,7 +40212,7 @@ We appreciate our health
 ???
 ???
 Salir
-Go out
+Exit
 (Cajas, cajas.)
 (Boxes, boxes.)
 Escoger la caja con aspecto valioso
@@ -40226,7 +40228,7 @@ You get ???
 Obtienes ???
 You get ???
 Salir
-Go out
+Exit
 (Si solo es una Baya...)
 (If it's just a Berry...)
 Está bien
@@ -40236,7 +40238,7 @@ Take your hands off my bag
 Recibe 1-3 Monedas
 Receive 1-3 Coins
 Salir
-Go out
+Exit
 (¿Variocolor...?)
 (Variocolor...?)
 Tal vez...
@@ -40246,7 +40248,7 @@ I don't think I have any
 Si tienes un Pokémon variocolor, recibe un objeto especial
 If you have a Shiny Pokémon, receive a special item
 Salir
-Go out
+Exit
 (Poké Balls...)
 (Poké Balls...)
 Puedo darte una
@@ -40256,7 +40258,7 @@ I'm sorry, they're really weird
 Entrega una Poké Ball y recibe dos Escamas Corazón
 Deliver a Poké Ball and receive two Heart Scales
 Salir
-Go out
+Exit
 (Podría...)
 (Could...)
 ¡Animarle!
@@ -40266,7 +40268,7 @@ I feel a chill behind me...
 Recibe una Escama Corazón
 Receive a Heart Scale
 Salir
-Go out
+Exit
 (Un fantasma...)
 (A ghost...)
 Enfrentarse al Pokémon
@@ -40276,7 +40278,7 @@ It's your imagination
 Afronta un combate difícil para obtener un objeto, una Escama Corazón y 2 Monedas
 Face a difficult fight to obtain an item, a Heart Scale and 2 Coins
 Salir
-Go out
+Exit
 (Esto...)
 (This...)
 Mucha raya y mucho punto
@@ -40286,7 +40288,7 @@ Receives ???
 Recibe ???
 Receives ???
 Salir
-Go out
+Exit
 (Phione parece incómoda...)
 (Phione looks uncomfortable...)
 ¡Me enfrentaré al Ditto!
@@ -40296,7 +40298,7 @@ Don't worry, he just wants to scare you
 Afronta un combate difícil para obtener un objeto, una Escama Corazón y 2 Monedas
 Face a difficult fight to obtain an item, a Heart Scale and 2 Coins
 Salir
-Go out
+Exit
 (Consejos...)
 (Tips...)
 Las Bayas lo amansarán
@@ -40306,7 +40308,7 @@ I'm sorry, I won't share my secrets with you
 Entrega dos Bayas y recibe una Escama Corazón
 Deliver two Berries and receive a Heart Scale
 Salir
-Go out
+Exit
 (Esto...)
 (This...)
 Contarle la verdad sobre su evolución
@@ -40320,7 +40322,7 @@ Who knows?
 ???
 ???
 Salir
-Go out
+Exit
 (Veamos...)
 (Let's see...)
 Usaré unas Bayas de la bolsa
@@ -40334,7 +40336,7 @@ You lose three Berries and get a valuable item
 Phione no curará tras el próximo combate y consigues un objeto valioso
 Phione will not heal after the next fight and you get a valuable item
 Salir
-Go out
+Exit
 (Parece que está a dieta...)
 (It seems like he's on a diet...)
 Sería una pena que...
@@ -40344,7 +40346,7 @@ I will respect it
 Da tres Bayas al Meditite y recibe un objeto valioso
 Give three Berries to the Meditite and receive a valuable item
 Salir
-Go out
+Exit
 (Esto...)
 (This...)
 Igual es verdad, pero está feo decirlo. ¡Prepárate!
@@ -40354,7 +40356,7 @@ Lucius, you are exaggerating
 Afronta un combate difícil para obtener un objeto, una Escama Corazón y 2 Monedas
 Face a difficult fight to obtain an item, a Heart Scale and 2 Coins
 Salir
-Go out
+Exit
 (Pues...)
 (Well...)
 Se la cambiaré por otra cosa
@@ -40364,7 +40366,7 @@ I'll leave it at that
 Pierde un objeto de la bolsa y recibe una Perla
 Lose an item from the bag and receive a Pearl
 Salir
-Go out
+Exit
 (¿Una Perla...?)
 (A bead...?)
 Veamos...
@@ -40374,7 +40376,7 @@ I don't remember carrying any
 Recibe dos objetos valiosos si tienes una Perla
 Receive two valuable items if you have a Pearl
 Salir
-Go out
+Exit
 (¿Un Pokémon de tipo #{PBTypes.getName(getConst(PBTypes, pbGet(30)))}...?)
 (A type Pokémon?
 Déjame ver
@@ -40384,7 +40386,7 @@ I don't think I have any
 Enseña un Pokémon de tipo #{PBTypes.getName(getConst(PBTypes, pbGet(30)))} y recibe un objeto valioso
 Teach a type Pokémon
 Salir
-Go out
+Exit
 (Bayas...)
 (Berries...)
 No le voy a quitar las Bayas al pobre Shuckle
@@ -40398,7 +40400,7 @@ Pass him
 ???
 ???
 Salir
-Go out
+Exit
 (Parece que colecciona cosas y las pega a su martillo...)
 (It seems like he collects things and glues them to his hammer...)
 Le daré algo
@@ -40408,7 +40410,7 @@ Nice hammer, bye
 Entrega un objeto de la bolsa, recibe tres Escamas Corazón
 Deliver an item from the bag, receive three Heart Scales
 Salir
-Go out
+Exit
 (¿Un Pokémon de naturaleza #{PBNatures.getName(getConst(PBNatures, pbGet(31)))}...?)
 (A Pokémon of nature
 Déjame ver
@@ -40418,7 +40420,7 @@ I don't think I have any
 Enseña un Pokémon de naturaleza #{PBNatures.getName(getConst(PBNatures, pbGet(31)))} y recibe un objeto valioso
 Teach a nature Pokémon
 Salir
-Go out
+Exit
 (Contar Mareep hace justo lo contrario...)
 (Count Mareep does just the opposite...)
 Tengo algo para usted
@@ -40428,7 +40430,7 @@ I can't help, I'm sorry
 Entrega un objeto que cure el sueño y recibe dos Escamas Corazón
 Give an item that cures sleep and receive two Heart Scales
 Salir
-Go out
+Exit
 (¿Qué hace una Poké Ball aquí...?)
 (What is a Poké Ball doing here...?)
 Recogerla
@@ -40438,7 +40440,7 @@ Leave her still in her place
 ???
 ???
 Salir
-Go out
+Exit
 (Meowth...)
 (Meowth...)
 Acariciarlo
@@ -40448,7 +40450,7 @@ I don't want to risk losing something
 ???
 ???
 Salir
-Go out
+Exit
 (A ver...)
 (Let's see...)
 Animar a Lucius
@@ -40462,7 +40464,7 @@ I don't want to get into this
 ???
 ???
 Salir
-Go out
+Exit
 (Cómo odio este tipo de personas...)
 (How I hate these kinds of people...)
 Ofrecer 2 Monedas
@@ -40480,7 +40482,7 @@ I'm not interested
 100% de obtener un objeto valioso
 100% of obtaining a valuable item
 Salir
-Go out
+Exit
 (No entiendo nada.)
 (I don't understand anything.)
 Bueno, si hasta Phione lo dice...
@@ -40490,7 +40492,7 @@ He's just a sad snail
 Afronta un combate difícil para obtener un objeto, una Escama Corazón y 2 Monedas
 Face a difficult fight to obtain an item, a Heart Scale and 2 Coins
 Salir
-Go out
+Exit
 (¿Y si...?)
 (And if...?)
 ¿...le doy unas Bayas?
@@ -40500,7 +40502,7 @@ Go out
 Da dos Bayas y recibe una Escama Corazón
 Give two Berries and receive a Heart Scale
 Salir
-Go out
+Exit
 (Mmm...)
 (Hmm...)
 Lo atacaré para guardar provisiones
@@ -40510,7 +40512,7 @@ If you have <cruel> in your name for a reason it will be
 Afronta un combate difícil para obtener un objeto, una Escama Corazón y 2 Monedas
 Face a difficult fight to obtain an item, a Heart Scale and 2 Coins
 Salir
-Go out
+Exit
 (¿Necesito medicina?)
 (Do I need medicine?)
 Sí, compraré alguna
@@ -40520,7 +40522,7 @@ Phione that's enough, thank you
 Pierde 3 Monedas y recibe dos objetos curativos
 Lose 3 Coins and receive two healing items
 Salir
-Go out
+Exit
 (Mmm...)
 (Hmm...)
 Lo retaré a un combate a cambio de unas monedas
@@ -40530,7 +40532,7 @@ Better to leave him alone with his nice scooter
 Afronta un combate difícil para obtener 7 Monedas
 Face a difficult fight to obtain 7 Coins
 Salir
-Go out
+Exit
 (¿Un intercambio?)
 (An exchange?)
 Solo son un par de monedas...
@@ -40540,7 +40542,7 @@ What exchange nor what exchange
 Das 4 Monedas por un objeto aleatorio
 You give 4 Coins for a random item
 Salir
-Go out
+Exit
 (¿Un intercambio?)
 (An exchange?)
 Solo son un par de monedas...
@@ -40550,7 +40552,7 @@ What exchange nor what exchange
 Das 2 Monedas por un objeto curativo aleatorio
 You give 2 Coins for a random healing item
 Salir
-Go out
+Exit
 (¿Qué debería hacer?)
 (What should I do?)
 ¿Ayudo a Phione?
@@ -40560,7 +40562,7 @@ Let them be
 Afronta un combate difícil para obtener un objeto, una Escama Corazón y 2 Monedas
 Face a difficult fight to obtain an item, a Heart Scale and 2 Coins
 Salir
-Go out
+Exit
 (Un Pyroar... Doscientos Rattata...)
 (One Pyroar...Two hundred Rattata...)
 Gana el Pyroar
@@ -40574,7 +40576,7 @@ Receive 2 Heart Scales
 Recibe 2 objetos curativos
 Receive 2 healing items
 Salir
-Go out
+Exit
 (¿Me faltan a mí objetos curativos?)
 (Am I missing healing items?)
 Efectivamente, me faltan
@@ -40584,7 +40586,7 @@ No, I don't lack
 Cambia 2 Monedas por tres objetos curativos
 Exchange 2 Coins for three healing items
 Salir
-Go out
+Exit
 (Mmm...)
 (Hmm...)
 ¿Debería capturarlo?
@@ -40594,7 +40596,7 @@ Better leave it alone
 ???
 ???
 Salir
-Go out
+Exit
 #=========================PRIMER_MAPA======================================
 (Debería...)
 (Ought...)
@@ -40619,7 +40621,7 @@ Money, money is good!
 Medicina
 Medicine
 Salir
-Go out
+Exit
 Escamas Corazón
 Heart Scales
 Un poderoso Rowlet
@@ -41279,7 +41281,7 @@ Unique way
 Sin género
 No gender
 SALIR
-GO OUT
+EXIT
 CONFIRMAR
 CONFIRM
 {1: 3d}/{2: 3d}
@@ -41295,7 +41297,7 @@ Do you want to leave the Pokémon without the card?
 {1} no está llevando nada.
 {1} is not carrying anything.
 La mochila está llena. No se puede le puede quitar el objeto al Pokémon.
-The backpack is full. The item cannot be taken from the Pokémon.
+The satchel is full. The item cannot be taken from the Pokémon.
 ¿Quieres enviar la carta a tu PC?
 Do you want to send the letter to your PC?
 El buzón de la PC está lleno.
@@ -41309,21 +41311,21 @@ The card has been removed from the Pokémon.
 Recibiste {1} de {2}.
 You received {1} of {2}.
 Los huevos no pueden llevar objetos.
-Eggs cannot carry objects.
+Eggs cannot carry items.
 Quitar la carta de {1} antes de darle otro objeto.
-Remove the card from {1} before giving it another object.
+Remove the card from {1} before giving it another item.
 ¡{1} ya lleva una unidad de {2}.<<1>>
 {1} already has a unit of {2}.<<1>>
 ¿Quieres cambiar un objeto por el otro?
-Do you want to exchange one object for the other? 
+Do you want to exchange one item for the other? 
 No se puede recuperar objeto descartado de la mochila
-Cannot recover discarded item from backpack
+Cannot recover discarded item from satchel
 La Mochila está llena. No se puede quitar el objeto del Pokémon.
-The Backpack is full. The item cannot be removed from the Pokémon.
+The satchel is full. The item cannot be removed from the Pokémon.
 ¡Se ha sustituido {1} por {2}!
 {1} has been replaced by {2}!
 No se puede recuperar objeto descartado de la mochila.
-You cannot recover a discarded item from the backpack.
+You cannot recover a discarded item from the satchel.
 ¡{1} lleva ahora {2}!
 {1} is now carrying {2}!
 ¿Dar a qué Pokémon?
@@ -41629,7 +41631,7 @@ Move
 Carta
 Letter
 Objeto
-Object
+Item
 No tiene PS suficientes...
 He doesn't have enough HP...
 ¿En cuál Pokémon usarlo?
@@ -41663,7 +41665,7 @@ What do you want to do with him?
 ¿A qué Pokémon quieres darle {1}?
 Which Pokémon do you want to give {1} to?
 Un Huevo no puede llevar un objeto.
-An Egg cannot carry an object.
+An Egg cannot carry an item.
 Le has dado {2} a {1}.
 You have given {2} to {1}.
 Debes tomar la carta de {1} antes de darle otro objeto.
@@ -41813,11 +41815,11 @@ MO's movements cannot be forgotten like this.
 ¡Debes elegir un movimiento!
 You must choose a move!
 CERRAR LA MOCHILA
-CLOSE THE BACKPACK
+CLOSE SATCHEL
 x{1: 2d}
 x{1:2d}
 Cerrar la mochila.
-Close the backpack.
+Close satchel.
 {1} no puede ser llevado.
 {1} cannot be carried.
 {1} no puede usarse en {2}.
@@ -41839,7 +41841,7 @@ You have selected {1}.
 ¿Cuántos quieres retirar?
 How many do you want to withdraw?
 No hay más espacio en la Mochila.
-There is no more space in the Backpack.
+There is no more space in the satchel.
 Retiraste {1} {2}(s).
 You folded {1} {2}(s).
 {1} no se puede llevar.
@@ -41847,7 +41849,7 @@ You folded {1} {2}(s).
 ¿Cuántos quieres depositar?
 How many do you want to deposit?
 No hay espacio para guardar objetos.
-There is no space to store objects.
+There is no space to store items.
 Se depositó {1} {2}(s).
 {1} {2}(s) was deposited.
 Tirar
@@ -41865,13 +41867,13 @@ They threw {1} {2}.
 Bolsillo inválido: {1}
 Invalid pocket: {1}
 El número de objeto no es válido.
-The object number is not valid.
+The item number is not valid.
 Cerrar almacenamiento.
 Close storage.
 Sacar<<n>>objeto
-Remove<<n>>object
+Remove<<n>>item
 Tirar<<n>>objeto
-Throw<<n>>object
+Throw<<n>>item
 x{1:03d}
 x{1:03d}
 Mapa
@@ -42026,6 +42028,8 @@ Ya hay una partida guardada. ¿Quieres sobrescribirla?
 There is already a saved game. Do you want to overwrite it?
 \se[]{1} guardó la partida.\se[save]\wtnp[30]
 \se[]{1} saved the game.\se[save]\wtnp[30]
+Tiempo real jugado: #{time}
+Real time played: #{time}
 Marco de diálogo {1}.
 Dialog frame {1}.
 Volumen Música
@@ -42037,7 +42041,7 @@ Text speed
 Lenta
 Slow
 Rápida
-Quick
+Fast
 Sprites animados en batalla
 Animated sprites in battle
 Animación de batalla
@@ -42045,7 +42049,7 @@ Battle animation
 Estilo de batalla
 Battle style
 Mantener
-Keep
+Set mode
 Tecla Correr
 Run key
 Sostener
@@ -42125,7 +42129,7 @@ LEAVE POKéMON
 MOVER POKéMON
 MOVE POKéMON
 MOVER OBJETOS
-MOVE OBJECTS
+MOVE ITEMS
 DESCONECTAR
 DISCONNECT
 Mueve un Pokémon de una Caja a tu equipo.
@@ -42135,7 +42139,7 @@ Save a Pokémon from your team in a Box.
 Organiza los Pokémon de las Cajas y tu equipo.
 Organize the Pokémon in the Boxes and your team.
 Mueve los objetos que llevan los Pokémon de la Cajas y tu equipo.
-Move the objects carried by the Pokémon in the Boxes and your team.
+Move the items carried by the Pokémon in the Boxes and your team.
 Regresar al menú anterior.
 Return to the previous menu.
 Saltar
@@ -42331,35 +42335,35 @@ The current map does not belong to any region. Please set the MapPosition metada
 Sacar Objeto
 Remove Item
 Dejar Objeto
-Leave Object
+Leave item
 Tirar Objeto
-Throw Object
+Throw item
 Sacar objetos de la PC.
-Remove objects from the PC.
+Remove items from the PC.
 Almacenar objetos en la PC.
-Store objects on the PC.
+Store items on the PC.
 Tirar objetos almacenados en la PC.
-Throw away objects stored on the PC.
+Throw away items stored on the PC.
 Volver al menú anterior.
 Return to previous menu.
 No hay objetos.
-There are no objects.
+There are no items.
 Aquí no hay ninguna Carta.
 There is no Letter here.
 ¿Qué quieres hacer con la Carta de {1}?
 What do you want to do with {1}'s Letter?
 Mover a la Mochila
-Move to Backpack
+Move to satchel
 El mensaje se perderá. ¿Estás de acuerdo?
 The message will be lost. Do you agree?
 La Carta regresó a la Mochila con el mensaje borrado.
-The Letter returned to the Backpack with the message erased.
+The Letter returned to the satchel with the message erased.
 La mochila está llena.
-The backpack is full.
+The satchel is full.
 ¿Qué quieres hacer?
 What do you want to do?
 Almacén Objetos
-Object Warehouse
+item Warehouse
 Buzón
 Mailbox
 Desconexión
@@ -42491,9 +42495,9 @@ You don't have enough money.
 {1}... Y quieres {2}.<<n>>Te costará ${3}. ¿De acuerdo?
 {1}... Y quieres {2}.<<r>><<n>>Te costará ${3}. ¿De acuerdo?
 Error al borrar objeto guardado
-Error deleting saved object
+Error deleting saved item
 No tienes espacio en la Mochila.
-You don't have space in your Backpack.
+You don't have space in your satchel.
 ¡Aquí tienes!<<n>>¡Gracias!
 ¡Aquí tienes!<<r>><<n>>¡Gracias!
 También recibes una Honor Ball extra.
@@ -42709,7 +42713,7 @@ YES, USE EXISTING
 SI, USAR NUEVO
 YES, USE NEW
 SI
-YEAH
+Yes
 Elegir el desafío.
 Choose the challenge.
 Este desafío usará la lista de Pokémon de {1}.
@@ -43243,11 +43247,11 @@ Jump to map
 Curar Equipo
 Heal Team
 Agregar Objeto
-Add Object
+Add item
 Llenar Mochila
-Fill Backpack
+Fill satchel
 Vaciar Mochila
-Empty Backpack
+Empty satchel
 Agregar Pokémon
 Add Pokémon
 Llenar Cajas de Almacenamiento
@@ -43331,17 +43335,17 @@ The map will be refreshed.
 El equipo Pokémon recuperó la salud.
 The Pokémon team regained health.
 AGREGAR OBJETO
-ADD OBJECT
+ADD ITEM
 Selecciona el número del objeto.
-Select the object number.
+Select the item number.
 El objeto ha sido agregado.
 The item has been added.
 Elige el número de objetos.
-Choose the number of objects.
+Choose the number of items.
 Se llenó la Mochila con {1} unidades de cada objeto.
-The Backpack was filled with {1} units of each object.
+The satchel was filled with {1} units of each item.
 Se vació la Mochila.
-The Backpack was emptied.
+The satchel was emptied.
 Indicar el nivel del Pokémon.
 Indicate the level of the Pokémon.
 Las Cajas fueron llenadas de un Pokémon de cada especie.
@@ -43651,23 +43655,23 @@ Fifth Pokémon.
 Sexto Pokémon.
 Sixth Pokémon.
 Objeto 1
-Object 1
+item 1
 Objeto utilizado por el entrenador durante la batalla.
 Item used by the trainer during battle.
 Objeto 2
-Object 2
+item 2
 Objeto 3
-Object 3
+item 3
 Objeto 4
-Object 4
+item 4
 Objeto 5
-Object 5
+item 5
 Objeto 6
-Object 6
+item 6
 Objeto 7
-Object 7
+item 7
 Objeto 8
-Object 8
+item 8
 Combate Entrenador
 Combat Trainer
 El combate de entrenador fue borrado.
@@ -43691,9 +43695,9 @@ Pokémon species.
 Nivel del Pokémon.
 Pokémon level.
 Objeto llevado
-Object carried
+item carried
 El objeto llevado por el Pokémon.
-The object carried by the Pokémon.
+The item carried by the Pokémon.
 Movimiento 1
 Movement 1
 Primer movimiento. Deja todos los movimientos en blanco (usa la tecla Z) para completarlo con movimientos naturales.
@@ -44047,11 +44051,11 @@ Processing common events
 ¡Aquí tienes!
 Here you have!
 No tienes más espacio en la Mochila.
-You don't have any more space in your backpack.
+You don't have any more space in your satchel.
 \G¡Aquí tienes!
 \GHere you go!
 \GNo tienes más espacio en la Mochila.
-\GYou have no more space in your Backpack.
+\GYou have no more space in your satchel.
 \GNo tienes el dinero suficiente.
 \GYou don't have enough money.
 Los mapas nuevos en la carpeta Data fueron importados correctamente.
@@ -44067,7 +44071,7 @@ Compiling skill data
 Compilando datos de los movimientos
 Compiling movement data
 Compilando datos de los objetos
-Compiling data from objects
+Compiling data from items
 Compilando datos de las plantas de bayas
 Compiling data from berry plants
 Compilando datos de los Pokemon
@@ -44197,7 +44201,7 @@ But your Bag is full...
 #{itemname2}
 #{itemname2}
 Escoge uno de estos dos objetos.
-Choose one of these two objects.
+Choose one of these two items.
 \tg[Anthony](No tengo suficientes Bayas.)
 \tg[Anthony](I don't have enough Berries.)
 \tg[Anthony](No tengo los objetos requeridos...)
@@ -44609,7 +44613,7 @@ You cannot select this option on mobile devices. This message is here to avoid a
 \tg[Minos]¡Un Umbreon! ¡La sombra protectora que sigue la noche!
 \tg[Minos]An Umbreon! The protective shadow that follows the night!
 \tg[Minos]¡Un Murkrow! ¡Siempre en busca de objetos brillantes y chispeantes!
-\tg[Minos]A Murkrow! Always on the lookout for shiny, sparkling objects!
+\tg[Minos]A Murkrow! Always on the lookout for shiny, sparkling items!
 \tg[Minos]¡Un Slowking! ¡La mente lenta que siempre tiene tiempo para un chiste!
 \tg[Minos]A Slowking! The slow mind that always has time for a joke!
 \tg[Minos]¡Un Misdreavus! ¡Listo para asustar y sorprender en la oscuridad!
@@ -46005,9 +46009,9 @@ This Pokémon can be obtained by finding an Egg during dungeons.
 Este Pokémon puede ser encontrado en el Capítulo extra.
 This Pokémon can be found in the Extra Chapter.
 #{poke} se encuentra en #{pbGetBasicMapNameFromId($dungeon_maps[i])} de #{getIslaName($dungeon_maps[i])} con un ratio de aparición del #{percentage}% según las restricciones actuales.
-#{poke} can be found in #{pbGetBasicMapNameFromId($dungeon_maps[i])} from #{getIslaName($dungeon_maps[i])} with an appearance ratio of #{percentage}% following current restrictions.
+#{poke} can be found in #{pbGetBasicMapNameFromId($dungeon_maps[i])} from #{getIslaName($dungeon_maps[i])} with an appearance ratio of #{percentage}% following current limitations.
 Este Pokémon no parece poder encontrarse con las restricciones actuales.
-This Pokémon doesn't seem to be able to encounter the current restrictions.
+This Pokémon doesn't seem to be able to be encountered within the current limitations.
 Isla Brizo
 Brizo Island
 Isla Pontos
@@ -46015,7 +46019,7 @@ Pontos Island
 Isla Glauco
 Glaucus Island
 Isla Talasa
-Thalassa Island
+Talasa Island
 algún lugar remoto
 some remote place
 Graphics/Icons/{1}
@@ -46043,7 +46047,7 @@ You can't travel right now.
 ¡No has visitado este lugar todavía!
 You haven't visited this place yet!
 Selecciona una isla.
-Select an island.
+Pick an island.
 #{pbGetBasicMapNameFromId(@id)}
 #{pbGetBasicMapNameFromId(@id)}
 ???
@@ -46052,7 +46056,7 @@ Modo historia
 Story mode
 Capítulo extra
 Extra chapter
-Modo mazmorra
+Modo Mazmorra
 Dungeon mode
 Atrás
 Back
@@ -46065,11 +46069,11 @@ Play a new story in visual novel format. Recommended for replaying dungeons.
 Vuelve al menú principal.
 Return to the main menu.
 Nueva partida
-New game
+New file
 Continúa esta partida.
-Continue this game.
+Keep playing!
 Empieza una partida nueva.
-Start a new game.
+Start a new adventure.
 Objeto:
 Item: 
 IV
@@ -46131,7 +46135,7 @@ Eggs can't hold items.
 {1} ya lleva {2}.<<1>>
 {1} already has {2}.<<1>>
 ¿Quieres cambiar ambos objetos?
-Do you want to change both objects?
+Do you want to change both items?
 Can't re-store deleted item in bag
 Can't re-store deleted item in bag
 La bolsa está llena. No se le puede quitar el objeto al Pokémon.
@@ -46463,13 +46467,13 @@ Take
 Tomar
 Take
 ¿Qué hacer con el objeto?
-What to do with the object?
+What to do with the item?
 ¿Dar {1} a qué Pokémon?
 Give {1} to which Pokémon?
 {1} ahora lleva {2}.
 {1} now carries {2}.
 ¿Quieres cambiar los objetos?
-Do you want to change the objects?
+Do you want to change the items?
 ¿Estás segur@ de guardar ahora y sobreescribir el otro archivo?
 Are you sure to save now and overwrite the other file?
 ¡Se ha guardado la partida!
@@ -46477,13 +46481,13 @@ The game has been saved!
 No se ha guardado la partida.
 The game has not been saved.
 ¿Qué tipo de restricción quieres añadir?\ch[5,-1,Tipo,Color,Región,Ninguno]
-What type of restriction do you want to add?\ch[5,-1,Type,Color,Region,None]
+What type of limitation do you want to add?\ch[5,-1,Type,Color,Region,None]
 Siniestro
-Sinister
+Dark
 Escoge el tipo de los Pokémon.
-Choose the type of Pokémon.
+Choose a type.
 Escoge el color de los Pokémon.
-Choose the color of the Pokémon.
+Choose a color.
 Kanto
 Kanto
 Johto
@@ -46501,15 +46505,15 @@ To the
 Galar
 Galar
 Paldea
-Slap
+Paldea
 Escoge la región de los Pokémon.
-Choose the Pokémon region.
+Choose a region.
 Restricciones
-Restrictions
+Limitations
 Dificultad
 Difficulty
 Difícil
-Difficult
+Hard
 Language
 Language
 Spanish
@@ -46519,7 +46523,7 @@ English
 Sprites anim.
 Animated sprites
 Para aplicar los cambios correctamente, guarda y reinicia el juego una vez hayas iniciado una partida.
-To apply the changes correctly, save and restart the game once you have started a game.
+To apply the changes correctly, save and restart the game once you have started a save file.
 Correr
 Run
 Sost.
@@ -46527,9 +46531,9 @@ Hold
 Música
 Music
 Efec. Esp.
-Esp. Ef.
+Sp. Ef.
 Sonidos de texto
-Text sounds
+Text blip
 Velocidad de texto
 Text speed
 Automatizar EVs
@@ -46537,19 +46541,19 @@ Automate EVs
 Enviar a las cajas
 Send to boxes
 PS en combate
-PS in combat
+HP numbers in battle
 Núm.
-No.
+Num.
 %
 %
 Desc. objetos
-Desc. objects
+Item desc.
 Ver
 See
 No ver
 Not see
 <ac>Añade restricciones a los Pokémon obtenibles. Pulsa C para modificarlas a tu gusto.</ac>
-<ac>Add restrictions to obtainable Pokémon. Press C to modify them to your liking.</ac>
+<ac>Add limitations to obtainable Pokémon. Press C to modify them to your liking.</ac>
 <ac>Ajusta la dificultad. Pulsa C para más información.</ac>
 <ac>Adjust the difficulty. Press C for more information.</ac>
 <ac>Change the game's language.</ac>
@@ -46565,17 +46569,17 @@ Not see
 <ac>Ajusta el volumen de los efectos especiales.</ac>
 <ac>Adjusts the volume of the special effects.</ac>
 <ac>Selecciona si quieres que los textos tengan sonido o no.</ac>
-<ac>Select whether you want the texts to have sound or not.</ac>
+<ac>Select whether you want the texts to have sounds or not.</ac>
 <ac>Escoge la velocidad a la que quieres ver el texto.</ac>
 <ac>Choose the speed at which you want to view the text.</ac>
 <ac>Avisa sobre qué Pokémon sacará a continuación el adversario.</ac>
-<ac>Informs which Pokémon the opponent will draw next.</ac>
+<ac>Notify about which Pokémon the opponent will send out next.</ac>
 <ac>Activa la pantalla completa. También puedes pulsar AltGr + Enter para ponerla y quitarla.</ac>
 <ac>Activates full screen. You can also press AltGr Enter to turn it on and off.</ac>
 <ac>Los EVs se añadirán automáticamente a las dos mayores estadísticas de los Pokémon.</ac>
 <ac>EVs will automatically be added to the Pokémon's two highest stats.</ac>
 <ac>Los Pokémon debilitados serán enviados a las Cajas tras los combates. Siempre activado en modo Difícil.</ac>
-<ac>Weakened Pokémon will be sent to the Boxes after battles. Always activated in Hard mode.</ac>
+<ac>Fainted Pokémon will be sent to the Boxes after battle. This will always happen in Hard mode.</ac>
 <ac>Selecciona si quieres ver los PS de los Pokémon en combate de forma usual o con porcentaje.</ac>
 <ac>Select whether you want to see the HP of Pokémon in battle as usual or as a percentage.</ac>
 <ac>Escoge si quieres ver las descripciones de objetos que obtengas por primera vez.</ac>
@@ -46591,7 +46595,7 @@ The number of Pokémon to choose from in the bubbles will be limited to three an
 Los Pokémon rivales tenderán a tener movimientos eficaces contra los aliados.
 Opposing Pokémon will tend to have effective moves against allies.
 No puedes usar restricciones en este modo de juego.
-You cannot use restrictions in this game mode.
+You cannot use limitations in this game mode.
 Debes empezar una partida antes de escoger esta opción.
 You must start a game before choosing this option.
 No tienes Pokémon.
@@ -46605,7 +46609,7 @@ You can't use fast travel right now.
 #{$PokemonBag.getRogueItemCount} / #{$Trainer.rogueItemLimit}
 #{$PokemonBag.getRogueItemCount} / #{$Trainer.rogueItemLimit}
 No puedes cambiar ese objeto.
-You can't change that object.
+You can't change that item.
 No puedes llevar más Escamas Corazón.
 You cannot carry any more Heart Scales.
 No caben más objetos en este bolsillo. ¿Quieres cambiarlo por otro?
@@ -46613,7 +46617,7 @@ There are no more items in this pocket. Do you want to change it for another one
 Te has desecho de #{pickname} y has obtenido #{itemname}.
 You have gotten rid of
 Has descartado el objeto.
-You have discarded the object.
+You have discarded the item.
 Logro no disponible.
 Achievement not available.
 Hacía tanto tiempo...
@@ -46755,7 +46759,7 @@ Max total EV:
 ¡Se han añadido nuevas ayudas!
 New aids have been added!
 Flechas => Moverse
-Arrows => Move
+Arrow keys => Move
 Z => Correr
 Z => Run
 X => Salir
@@ -46771,17 +46775,17 @@ F8 => Take screenshots
 F => Ver textlog
 F => See textlog
 Alt => Acelerar juego
-Alt => Speed ​​up game
+Alt => Speed ​​up
 F12 => Reiniciar juego
-F12 => Restart game
+F12 => Restart
 X => Atrás
 X => Back
 Todos los Pokémon tienen el mismo potencial y utilizarán sus estadísticas base. Usa Escamas Corazón para alterar sus naturalezas, habilidades y movimientos a tu gusto así como para hacerlos evolucionar. Puedes cambiar sus EVs libremente sin coste alguno. Cuantos más logros consigas, mayor será la cantidad de EVs que puedas asignarles. La probabilidad de encontrar un Pokémon variocolor es del 0.3%. Si un Pokémon salvaje es variocolor, se garantiza su captura siempre y cuando tengas una Poké Ball contigo.
 All Pokémon have the same potential and will use their base stats. Use Heart Scales to alter their natures, abilities and moves to your liking as well as evolve them. You can change their EVs freely at no cost. The more achievements you earn, the higher your Pokémon will be. 
 Ciertos objetos tienen efectos pasivos y solo puedes llevar un número limitado de ellos. Estos objetos pueden encontrarse en el bolsillo de la mochila llamado Especial. Los Pokémon aliados y rivales solo pueden llevar equipadas Bayas.
-Certain items have passive effects and you can only carry a limited number of them. These items can be found in the backpack pocket called Special. Allied and rival Pokémon can only have Berries equipped.
+Certain items have passive effects and you can only carry a limited number of them. These items can be found in the satchel pocket called Special. Allied and rival Pokémon can only have Berries equipped.
 Siempre y cuando tengas una Poké Ball y Lucius esté contigo podrás elegir un Pokémon de una Burbuja de Praná. Puedes elegir qué tipo de Pokémon quieres que aparezcan en Opciones => Restricciones. Además, tras derrotar un Pokémon y si tienes una Poké Ball, hay un pequeño porcentaje de que se una al equipo automáticamente.
-As long as you have a Poké Ball and Lucius is with you you can choose a Pokémon from a Prana Bubble. You can choose what type of Pokémon you want to appear in Options => Restrictions. Also, after defeating a Pokémon and if you have a Poké Ball, There is a small percentage of him joining the team automatically.
+As long as you have a Poké Ball and Lucius is with you you can choose a Pokémon from a Prana Bubble. You can choose what type of Pokémon you want to appear in Options => Limitations. Also, after defeating a Pokémon and if you have a Poké Ball, There is a small percentage of him joining the team automatically.
 Mientras Phione esté en el equipo, los Pokémon recuperarán un 25% de sus PS tras los combates. En modo difícil pasa a ser 10%.
 While Phione is on the team, Pokémon will recover 25% of their HP after battles. In hard mode it becomes 10%.
 Introducir nombre
@@ -46819,7 +46823,7 @@ hiny Pokémon found:
 Cofres abiertos: #{$Trainer.chestCountLogro}
 Open chests:
 Objetos valiosos encontrados: #{importantitemcount}
-Valuable objects found:
+Valuable items found:
 Monedas obtenidas: #{$Trainer.coinCountLogro}
 Coins obtained:
 Bayas encontradas: #{$Trainer.berryCountLogro}
@@ -46877,7 +46881,7 @@ Coins:<<n>><r>{1}
 {1} costará ${2}, ¿qué te parece?
 {1} will cost ${2}, what do you think?
 Ya tiene ese objeto, no pienso venderle otro.
-You already have that object, I'm not going to sell you another one.
+You already have that item, I'm not going to sell you another one.
 Aquí tienes...<<n>>Gracias...
 Aquí tienes...<<r>><<n>>Gracias...
 ¡Claro, aquí tienes!
@@ -47056,7 +47060,7 @@ With the flow restored, the being clings to a reminiscence of the past. That's r
 \tg[Anthony](Un Pokémon de \c[2]Tipo Fuego</c> podría descongelar el cofre...)
 \tg[Anthony](A \c[2]Fire Type</c> Pokémon could unfreeze the chest...)
 Sí
-Yeah
+Yes
 No
 No
 [Map406]
@@ -47187,13 +47191,13 @@ Quaquaval released a Heart Scale as thanks for the encouragement.
 \tg[Lucius]¡Gané! ¡Se le da bien animar, Mr. Anthony!
 \tg[Lucius]I won! You're good at cheering, Mr. Anthony!
 \tg[Lucius]Tenga este objeto que encontré por el camino.
-\tg[Lucius]Have this object that I found along the way.
+\tg[Lucius]Have this item that I found along the way.
 \tg[Lucius]¡Ah! ¡He perdido...!
 \tg[Lucius]Ah! I've lost...!
 \tg[Lucius]No olvidaré esta traición...
 \tg[Lucius]I will not forget this betrayal...
 El Chatot agradece la ayuda y ha dejado caer un objeto.
-The Chatot appreciates the help and has dropped an object.
+The Chatot appreciates the help and has dropped an item.
 \tg[Phione](...)
 \tg[Phione](...)
 \tg[Tsareena](...)
@@ -47213,7 +47217,7 @@ The Chatot appreciates the help and has dropped an object.
 \tg[Phione]Gah...
 \tg[Phione]Gah...
 \tg[Aventurera]Tengo tres cajas. Dentro de cada una hay un objeto de distinto valor... ¡Le dejaré quedarse con el contenido de una de ellas!
-\tg[Adventuress]I have three boxes. Inside each one is an object of different value... I'll let you keep the contents of one of them!
+\tg[Adventuress]I have three boxes. Inside each one is an item of different value... I'll let you keep the contents of one of them!
 \tg[Lucius]¿¡Mr. Anthony!? ¿Por qué ha escogido la caja más horrenda?
 \tg[Lucius]Mr. Anthony!? Why did you choose the most horrendous box?
 \tg[Anthony]A mí me parecía valiosa...
@@ -47297,7 +47301,7 @@ The team's Pokémon have been poisoned!
 \tg[Anthony](¿Se las estaba escondiendo?)
 \tg[Anthony](Was I hiding them from you?)
 \tg[Vendedora]Oiga, ¿no le interesará comprarme este objeto tan interesantísimo que llevo aquí?
-\tg[Saleswoman]Hey, wouldn't you be interested in buying me this very interesting object that I have here?
+\tg[Saleswoman]Hey, wouldn't you be interested in buying me this very interesting item that I have here?
 \tg[Anthony]¿Qué es?
 \tg[Anthony]What is it?
 \tg[Vendedora]No se lo diré. El precio mínimo es de 2 Monedas y ya me lo ha pedido más gente, ¿lo quiere o no?
@@ -47319,7 +47323,7 @@ The team's Pokémon have been poisoned!
 \tg[Anthony]Ni ahora ni nunca tendremos el dinero suficiente para comprar un patinete hecho de oro, lo siento.
 \tg[Anthony]Neither now nor will we ever have enough money to buy a scooter made of gold, I'm sorry.
 El Pokémon se ha ido dejando caer algunos objetos.
-The Pokémon has been dropping some objects.
+The Pokémon has been dropping some items.
 \tg[Murkrow](...)
 \tg[Murkrow](...)
 \tg[Anthony](...)
