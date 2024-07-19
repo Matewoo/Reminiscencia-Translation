@@ -540,11 +540,11 @@ And they rested until the next day.
 \tg[Phione]Pero el Amo no despertaba... ¡Phione se preocupó mucho!
 \tg[Phione]But the Master didn't wake up... Phione got very worried!
 \tg[???]¿Dónde...? ¿Dónde me encuentro...?
-\tg[???]¿Dónde...? ¿Dónde me encuentro...? 
+\tg[???]Where...? Where am I...?
 \tg[Anthony]En mi casa. ¿Puedes levantarte?
 \tg[Anthony]In my house. Can you get up?
 \tg[???]Oh... Destruido, ¡hecho pedacitos!
-\tg[???]Oh... Destruido, ¡hecho pedacitos! 
+\tg[???]Oh... Destroyed, smashed into pieces!
 \tg[Anthony]Se te cayeron mientras te traía hasta aquí. Llevabas también un trozo de tela y un cuaderno.
 \tg[Anthony]You dropped them while I was bringing you here. You also had a piece of cloth and a notebook.
 \tg[Anthony]Aquí tienes. Tranquilo, no lo he abierto.
@@ -592,7 +592,7 @@ And they rested until the next day.
 \tg[Anthony](Ah, claro, él es Lugia y yo el Rey de Kalos.)
 \tg[Anthony](Ah, of course, he is Lugia and I am the King of Kalos.)
 \tg[Anthony]Vale, ¿y cómo has acabado así tirado en la playa?
-\tg[Anthony]Vale, ¿y cómo has acabado así tirado en la playa? 
+\tg[Anthony]Okay, and how did you end up on the beach like that? 
 \tg[Lucius]¡Ojalá pudiera responderle! He olvidado lo que ocurrió...
 \tg[Lucius]I wish I could answer you! I have forgotten what happened...
 \tg[Anthony]Vaya, mira tú qué casualidad.
@@ -642,7 +642,7 @@ And they rested until the next day.
 \tg[Anthony](Estaría bien comprar otros libros, empiezo a cansarme de leer siempre los mismos.)
 \tg[Anthony](It would be nice to buy other books, I'm starting to get tired of always reading the same ones.)
 \tg[Anthony](Veamos... Debería coger el \c[2]Amuleto</c>, la \c[2]Poké Ball</c> y tal vez algo de \c[2]comida</c> para el camino.)
-\tg[Anthony](Let's see... I should grab the \c[2]Amulet</c>, the \c[2]Poké Ball</c> and maybe some \c[2]food</c> c> for the road.)
+\tg[Anthony](Let's see... I should grab the \c[2]Amulet</c>, the \c[2]Poké Ball</c> and maybe some \c[2]food</c> for the road.)
 \tg[Anthony](Una vieja Poké Ball sin usar. Qué recuerdos...)
 \tg[Anthony](An old unused Poké Ball. What memories...)
 \tg[Anthony](Nunca he tenido que volver a usar una, pero por si acaso...)
@@ -735,7 +735,7 @@ Some Achievements have been added automatically.
 \tg[Anthony](Debe ser el cansancio. Apenas he dormido y ahora estoy delirando.)
 \tg[Anthony](It must be tiredness. I've barely slept and now I'm delirious.)
 \tg[Anthony]Cambio de planes, Wal. Me vuelvo a la cama. El huerto puede esperar un día más.
-\tg[Anthony]Cambio de planes, Wal. Me vuelvo a la cama. El huerto puede esperar un día más. 
+\tg[Anthony]Change of plans, Wal. I'm going back to bed. The garden can wait one more day.
 \tg[???]Ugh...
 \tg[???]Ugh...
 \tg[???]¡Amo Lucius!
@@ -779,7 +779,7 @@ Some Achievements have been added automatically.
 \tg[Lucius]¿Pokécuartos? Ah, debe referirse al &quot;dinero&quot;.
 \tg[Lucius]Pokéquarters? Oh, it must refer to "money.".
 \tg[Lucius]Pero yo estoy sin <i>anca</i>...
-\tg[Lucius]But I am legless...
+\tg[Lucius]But I don't have <i>anca</i>...
 \tg[Anthony]¿"Anca"? Dices cosas muy raras.
 \tg[Anthony]"Anca"? You say very strange things.
 \tg[Anthony]Lo dicho, que te vaya bien.
@@ -841,7 +841,7 @@ Some Achievements have been added automatically.
 \tg[Phione]¿Está seguro...?
 \tg[Phione]Are you sure...?
 \tg[Lucius]En estos momentos necesitamos toda la ayuda que nos podamos permitir, así que...
-\tg[Lucius]Right now we need all the help we can afford, so...
+\tg[Lucius]Right now we need all the help we can get, so...
 \tg[Lucius]Por cierto, ¿cómo debería dirigirme a usted? Aún desconozco su nombre.
 \tg[Lucius]By the way, how should I address you? I still don't know your name.
 \tg[Anthony]Es verdad... He olvidado presentarme. \c[6]Anthony Delmore</c>.
@@ -851,7 +851,7 @@ Some Achievements have been added automatically.
 \tg[Anthony](Sabe que solo lo acompañaré hasta el barco, ¿verdad?)
 \tg[Anthony](You know I'll only walk you to the ship, right?)
 \tg[Anthony]&quot;Anthony&quot; está bien, no tienes que ser tan formal. Me haces sentir mayor.
-\tg[Anthony]"Anthony"" it's okay, you don't have to be so formal. You make me feel older.
+\tg[Anthony]"Anthony" it's okay, you don't have to be so formal. You make me feel older.
 \tg[Lucius]Entendido, Mr. Anthony. ¡Estaremos listos para partir en cuanto diga!
 \tg[Lucius]Understood, Mr. Anthony. We will be ready to leave as soon as you say!
 \tg[Anthony]No, me refería a que simplemente... Da igual.
@@ -1686,7 +1686,7 @@ This would be the beginning of their adventures together by the sea.
 \tg[Preta]¿¡Y eshta quién esh, Tony!? ¿Ya te hash bushcado una nueva novia?
 \tg[Preta]And who is this, Tony!? Have you already found a new girlfriend?
 \tg[Anthony]Si te dijera quien dice ser, el borracho parecería yo.
-\tg[Anthony]If I told you who he says he is, I would look like a drunk.
+\tg[Anthony]If I told you who she says she is, I would look like a drunk.
 \tg[Preta]¡Un momento! Dosh... Tresh...
 \tg[Preta]Wait a minute! Dosh... Tresh...
 \tg[Preta]Ay, ¿¡esh que no te valía con una!? ¿Qué va a penshar la gente cuando te vea con cuatro albinash? ¡Hic!
@@ -1700,7 +1700,7 @@ This would be the beginning of their adventures together by the sea.
 \tg[Preta]¡Claro! ¡Shí, tu barco!
 \tg[Preta]Sure! Yes, your ship!
 \tg[Preta]¿Qué pasha con él?
-\tg[Preta]What's up with him?
+\tg[Preta]What's up with it?
 \tg[Anthony]La señorita albina tiene que salir de la isla junto a su Pokémon y quiero que los lleves. Puedes hacerlo, ¿no?
 \tg[Anthony]The albino lady has to leave the island with her Pokémon and I want you to take them. You can do it, right?
 \tg[Preta]¿¡Ya la vash a divorciar!? Shi esh que el amor nunca fue lo tuyo...
@@ -5437,13 +5437,13 @@ Aaaaaaaaaaaaaaaaah!
 \tg[Anthony]Dudo mucho que se este refiriendo a ti...
 \tg[Anthony]I highly doubt he's referring to you...
 \tg[???]¡Así es! ¡El señor de aquí parece ser un Portador bastante fuerte!
-\tg[???]¡Así es! ¡El señor de aquí parece ser un Portador bastante fuerte! 
+\tg[???]That's right! The gentleman here seems to be quite a strong Bearer!
 \tg[Helen]¡Espero que esté preparado para enfrentarse a la vaquera Plasma, \c[6]Helen</c>!
 \tg[Helen]I hope you're ready to take on Cowgirl Plasma, \c[6]Helen</c>!
 \tg[Lucius]Mr. Anthony, ¿qué es una "vaquera"?
 \tg[Lucius]Mr. Anthony, what is a "cowgirl"?
 \tg[Anthony]Eso es lo de menos ahora mismo, dudo que nos deje pasar si no le ganamos.
-\tg[Anthony]That's the least important thing right now, I doubt he'll let us pass if we don't beat him.
+\tg[Anthony]That's the least important thing right now, I doubt she'll let us pass if we don't beat her.
 \tg[Helen]¡<i>Yee-haw</i>! ¡¿Preparado para la siguiente <i>round</i>?!
 \tg[Helen]<i>Yee-haw</i>! Ready for the next <i>round</i>?!
 \tg[Anthony]Mira que eres persistente, ¿eh?
