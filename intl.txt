@@ -1176,7 +1176,7 @@ But apparently\|\c[2] you are just another traitor.
 \tg[Phione](Aunque a veces le causan aún más problemas, fí...)
 \tg[Phione](Although sometimes they cause him even more problems, fi...)
 \tg[Granjero]¡Oye, cuidado! ¡Por aquí hay unos Weedle bastante venenosos!
-\tg[Granjero]¡Oye, cuidado! ¡Por aquí hay unos Weedle bastante venenosos! 
+\tg[Farmer]Hey, watch out! There's some pretty poisonous Weedle around here!
 \tg[Lucius]¡A-au! ¡Me ha picado uno!
 \tg[Lucius]A-ow! One stung me!
 \tg[Anthony]Anda, aquí tienes una loción contra los Weedle que llevo.
@@ -1196,7 +1196,7 @@ But apparently\|\c[2] you are just another traitor.
 \tg[Lucius]¿Cómo voy a saberlo? Todos los Weedle me parecen iguales...
 \tg[Lucius]How would I know? All Weedles look the same to me...
 \tg[Anthony]Bien, hasta aquí mi paciencia. Que te den.
-\tg[Anthony]Well, that's it for my patience. Fuck you.
+\tg[Anthony]Well, that's it for my patience. Screw you.
 \tg[Lucius]¡N-no, espere! ¡Me pica...!
 \tg[Lucius]N-no, wait! It itches...!
 \tg[Lucius]Si lo he entendido bien, ¿significaba eso que no podremos ir en barco?
@@ -2270,7 +2270,7 @@ No
 \tg[Lucius]¿Un pulso...? ¿Primigenio?
 \tg[Lucius]A pulse...? Primal?
 \tg[Anthony]Es un juego. Parece que este señor quiere medir su fuerza contigo.
-\tg[Anthony]Es un juego. Parece que este señor quiere medir su fuerza contigo. 
+\tg[Anthony]It's a game. It seems that this gentleman wants to measure his strength with you.
 \tg[Lucius]Oh, ¡entonces aguarde a que esté en mi Forma Pokémon!
 \tg[Lucius]Oh, then wait until I'm in my Pokémon Form!
 \tg[Anthony]Eso sería hacer trampas.
@@ -8130,7 +8130,7 @@ With the flow restored, the being clings to a reminiscence of the past. That's r
 \tg[Barbaracle](Desaparecer... ¡Desaparecer!)
 \tg[Barbaracle](Disappear...Disappear!)
 \tg[Lucius]¿¡Qué os ocurre!? ¿Es por las perlas?
-\tg[Lucius]¿¡Qué os ocurre!? ¿Es por las perlas? 
+\tg[Lucius]What's the problem? Is it because of the pearls?
 \tg[Lucius]¡No crean, señores Barbaracle, que sus rostros resultarán más agradables con ellas!
 \tg[Lucius]Do not believe, gentlemen Barbaracle, that your faces will be more pleasant with them!
 \tg[Barbaracle](No... Él...)
@@ -8140,13 +8140,13 @@ With the flow restored, the being clings to a reminiscence of the past. That's r
 \tg[Phione]¿¡Cuál es vuestro problema con Anthony!? ¡El Amo y Phione también están presentes!
 \tg[Phione]What's your problem with Anthony!? The Master and Phione are also present!
 \tg[Barbaracle](Que se vaya... Tiene que irse...)
-\tg[Barbaracle](Que se vaya... Tiene que irse...) 
+\tg[Barbaracle](He must go... He has to go...)  
 \tg[Lucius]¡Nos iremos en cuanto nos digan el por qué de su enfado!
 \tg[Lucius]We will leave as soon as you tell us why you are angry!
 \tg[Barbaracle](No... Debe abandonar este mundo...)
-\tg[Barbaracle](No... Debe abandonar este mundo...) 
+\tg[Barbaracle](No... You must leave this world...)
 \tg[Barbaracle](¡PARA SIEMPRE!)
-\tg[Barbaracle](¡PARA SIEMPRE!) 
+\tg[Barbaracle](FOREVER!)
 \tg[Anthony]¡Vámonos de aquí! ¡Ya!
 \tg[Anthony]Let's get out of here! Now!
 \tg[Lucius]¡Mr. Anthony, Phione! ¡Por este lado!
@@ -8809,7 +8809,7 @@ So, Anthony, Lucius and Phione collected everything that could serve as fuel and
 \tg[Phione]¡Gaaah! ¡Amo Luciuuus!
 \tg[Phione]Gaaah! Master Luciuuus!
 \tg[Anthony]Ahí va... Se ha transformado en Pokémon de verdad...
-\tg[Anthony]There he goes... He has transformed into a real Pokémon...
+\tg[Anthony]There she goes... She has transformed into a real Pokémon...
 \tg[Moira]¡Je, je, je! ¡La cara del fortachón lo dice todo!
 \tg[Moira]Heh heh heh! The strong man's face says it all!
 \tg[Moira]¡Si no puedes usar tus ataques, harás lo que yo te diga!
@@ -8819,7 +8819,7 @@ So, Anthony, Lucius and Phione collected everything that could serve as fuel and
 \tg[Flint]Oh, no... Más víctimas...
 \tg[Flint]Oh, no... More victims...
 \tg[Lucius]¿¡Pero qué se ha creído!? ¿Cómo puede actuar de forma tan egoísta en momentos como este?
-\tg[Lucius]But what did he think!? How can he act so selfishly at times like this?
+\tg[Lucius]But what did she think!? How can she act so selfishly at times like this?
 \tg[Moira]Me da ifgual. Un día de trabafjo en la mina pagará lo que necesiftas.
 \tg[Moira]I don't care. A day of work in the mine will pay for what you need.
 \tg[Moira]Yo misma os acompafñaré para asegurarfme de que no os efscaqueáis. Imagifno que llegaréis cansafdos, así que mejor empefzáis mañana.
@@ -42499,7 +42499,7 @@ Error deleting saved item
 No tienes espacio en la Mochila.
 You don't have space in your satchel.
 ¡Aquí tienes!<<n>>¡Gracias!
-¡Aquí tienes!<<r>><<n>>¡Gracias!
+Here you go!<<r>><<n>>Thank you!
 También recibes una Honor Ball extra.
 You also receive an extra Honor Ball.
 ¿{1}? ¡Oh, no!<<n>>No puedo comprar eso.
@@ -46883,7 +46883,7 @@ Coins:<<n>><r>{1}
 Ya tiene ese objeto, no pienso venderle otro.
 You already have that item, I'm not going to sell you another one.
 Aquí tienes...<<n>>Gracias...
-Aquí tienes...<<r>><<n>>Gracias...
+Here you go...<<r>><<n>>Thank you...
 ¡Claro, aquí tienes!
 Sure, here you go!
 Echar un vistazo a la mercancía
